@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 1: April 25, 2022
+**Today's Progress**: Attended Day 1 of SoC Bootcamp, worked on some CSS challenges we started during the day.
+
+**Thoughts:** I've only done very basic CSS so far as part of the pre-learning for the bootcamp, so a lot of the things I saw today were new to me.  As we were working in a pair/group during the day, occassionally I felt things escaped me a little, so I wanted to go back over this myself.
+
+**Links to CSS challenges:** https://flukeout.github.io/ and https://cssgridgarden.com/
+
+<br>
+<br>
+*I'm leaving the examples here so I can see the format.*
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
