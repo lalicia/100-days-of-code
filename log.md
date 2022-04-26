@@ -21,6 +21,20 @@ Honestly, as it got toward the end of the afternoon I really started to feel tir
 
 **Links to CSS challenges:** https://flukeout.github.io/ and https://cssgridgarden.com/
 
+
+### Day 2: April 26, 2022
+**Today's Progress**: Day 2 of SoC Bootcamp, worked on CSS koala and git/GitHub push-pull.
+
+**Thoughts on the day at bootcamp:** The morning session covered a recap of html layout, the concepts of tags and requirements for instructing the computer.  We looked at VS Code - how it works, the terminal, some of the features.  There was a talk about code vs. programming vs. software engineering, and an intro to the concept of DRY (Do not Repeat Yourself) and making things as simple as you can - avoiding repetition.  We looked at the Netflix site and Chris went over how it could be broken down into parts so that the idea of creating it wasn't really that intimidating, and then Abdi and I looked at the Amazon site and did likewise.
+
+Abdi and I did some more pair coding, trying to replicate a koala in CSS.  We were supposed to be looking at the principle of breaking things down, so we went about that by first trying to create some of the shapes we needed, before tackling their positioning.
+
+The afternoon session was focussed on using git and GitHub, practicing the rhythm of add - commit - push - pull.  Chris then gave a recap as quite a few of us were finding it tricky.
+
+I'd made a mistake in the morning by creating a repo in my root folder, so I spent a bit of time panicking and sorting that out, but hopefully I've now learned and won't be doing that again!  Was very tired by the end of the day, but at least I looked it and my mum offered to get fish and chips lol  Win?
+
+**Thoughts on the 'coding':** We didn't do too bad with the CSS koala but I'm not understanding the positioning of elements so I'm going to go back over that with some youtube tutorials I think.
+
 <br>
 <br>
 *I'm leaving the examples here so I can see the format.*
