@@ -1,5 +1,50 @@
 # 100 Days Of Code - Log
 
+### Day 4: April 28, 2022
+**Today's Progress**: Day 4 of SoC Bootcamp, more Javascript and some mindset coaching.
+
+**Thoughts on the day at bootcamp:**
+- This morning we had our first mindset session, focussed on feedback, and I found that really good and timely after a pretty tough day yesterday
+- We discussed the Hero's Journey, which reconated HARD, and also the good and bad way of giving/receiving feedback
+- We recapped yesterday's Javascript then moved on to looking at Objects and Arrays; felt kind of ok on Objects until I didn't (lol) and Arrays...not so bad until starting to work with them and loops (While and For)
+- Am pleased with the fact that I have learned some stuff, but still feel like a lot of stuff is going over my head
+- Need to focus more on the computational thinking and breaking things down...may also need a new brain coz this one's tired and it's only Day 4 lol
+
+**Thoughts on the 'coding':**
+- Javascript continues to be a lot, but I do like it
+- Loops, I do not like
+- I had a look at Codewars (which I managed to finally get onto by passing the test) but the training exercises are all like WHAAAAAAT?  So I think I have some ways to go before I'm going to be able to be effective there
+- I'm going to have a look at some youtube and try and get more of a handle on Loops
+
+
+### Day 3: April 27, 2022
+**Today's Progress**: Day 3 of SoC Bootcamp, started looking at Javascript.
+
+**Thoughts on the day at bootcamp:**
+Going to make these a little more succint because words...
+- Started to look at Javascript and tbh, a lot of it went over my head.  We worked on a password checker and I think if we hadn't had some help from the very clevel Brycen, we'd still be scratching our heads
+- Had the worst headache ever by the end of the day
+- Met with my mentor and had a really good conversation; he's a really nice guy and what he said was a real comfort after a somewhat meh day of feeling like the worst coder ever
+
+**Thoughts on the 'coding':**
+- Javascript is a lot
+- Loops have me foxed: I went and watched a handful of videos that night and tbh I'm not sure how much I gleaned from them
+- I still felt itchy about the CSS positioning, so I watched some more on that, and while I am far from knowing what to do, I do understand it a little better
+
+### Day 2: April 26, 2022
+**Today's Progress**: Day 2 of SoC Bootcamp, worked on CSS koala and git/GitHub push-pull.
+
+**Thoughts on the day at bootcamp:** The morning session covered a recap of html layout, the concepts of tags and requirements for instructing the computer.  We looked at VS Code - how it works, the terminal, some of the features.  There was a talk about code vs. programming vs. software engineering, and an intro to the concept of DRY (Do not Repeat Yourself) and making things as simple as you can - avoiding repetition.  We looked at the Netflix site and Chris went over how it could be broken down into parts so that the idea of creating it wasn't really that intimidating, and then Abdi and I looked at the Amazon site and did likewise.
+
+Abdi and I did some more pair coding, trying to replicate a koala in CSS.  We were supposed to be looking at the principle of breaking things down, so we went about that by first trying to create some of the shapes we needed, before tackling their positioning.
+
+The afternoon session was focussed on using git and GitHub, practicing the rhythm of add - commit - push - pull.  Chris then gave a recap as quite a few of us were finding it tricky.
+
+I'd made a mistake in the morning by creating a repo in my root folder, so I spent a bit of time panicking and sorting that out, but hopefully I've now learned and won't be doing that again!  Was very tired by the end of the day, but at least I looked it and my mum offered to get fish and chips lol  Win?
+
+**Thoughts on the 'coding':** We didn't do too bad with the CSS koala but I'm not understanding the positioning of elements so I'm going to go back over that with some youtube tutorials I think.
+
+
 ### Day 1: April 25, 2022
 **Today's Progress**: Attended Day 1 of SoC Bootcamp, worked on some CSS challenges we started during the day.
 
@@ -21,19 +66,6 @@ Honestly, as it got toward the end of the afternoon I really started to feel tir
 
 **Links to CSS challenges:** https://flukeout.github.io/ and https://cssgridgarden.com/
 
-
-### Day 2: April 26, 2022
-**Today's Progress**: Day 2 of SoC Bootcamp, worked on CSS koala and git/GitHub push-pull.
-
-**Thoughts on the day at bootcamp:** The morning session covered a recap of html layout, the concepts of tags and requirements for instructing the computer.  We looked at VS Code - how it works, the terminal, some of the features.  There was a talk about code vs. programming vs. software engineering, and an intro to the concept of DRY (Do not Repeat Yourself) and making things as simple as you can - avoiding repetition.  We looked at the Netflix site and Chris went over how it could be broken down into parts so that the idea of creating it wasn't really that intimidating, and then Abdi and I looked at the Amazon site and did likewise.
-
-Abdi and I did some more pair coding, trying to replicate a koala in CSS.  We were supposed to be looking at the principle of breaking things down, so we went about that by first trying to create some of the shapes we needed, before tackling their positioning.
-
-The afternoon session was focussed on using git and GitHub, practicing the rhythm of add - commit - push - pull.  Chris then gave a recap as quite a few of us were finding it tricky.
-
-I'd made a mistake in the morning by creating a repo in my root folder, so I spent a bit of time panicking and sorting that out, but hopefully I've now learned and won't be doing that again!  Was very tired by the end of the day, but at least I looked it and my mum offered to get fish and chips lol  Win?
-
-**Thoughts on the 'coding':** We didn't do too bad with the CSS koala but I'm not understanding the positioning of elements so I'm going to go back over that with some youtube tutorials I think.
 
 <br>
 <br>
