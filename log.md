@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+
+### Day 5: April 29, 2022
+**Today's Progress**: Day 5 of SoC Bootcamp, first Hackathon!
+
+**Thoughts on the day at bootcamp:**
+- Today was our first Hackathon, where we spend all day on a project to then discuss and look over at the end in a group
+- Abdi and I did pretty well and I was happy to get the functions going at the beginning, but some of the later stuff was new and/confusing...
+- Not gonna lie, I had a little cry at the end of the day when not for love nor money could I get something to work.  Hamza (coach at SoC) spent a bit of time with me after the wrap up and helped me, and I really appreciated it (I didn't cry on Hamza btw, it was a private cry lol - don't worry, he's fine)
+- Also had an into meeting with Rikia who's my enablement coach; was a nice little chat and he was really reassuring.  Did feel bad I apparently gave him the worst confidence score (2.5 out of 5) from his group, but I'm a truth-teller lol
+- Was quite upset we had weekend assignments to do, as I can see at my pace I won't have any time off :disappointed: I was going to be looking at stuff anyways but yeah, now I feel quite pressured.  Life is hard, yo
+
+**Thoughts on the 'coding':**
+- Javascript will always be a lot, but when you get something to work the feeling of pride is immense
+- I forked the Hackathon afterwards to work on it on my own to try and progress, and I did some on it this evening and got another couple of tasks done, which made me feel much happier and less wobbly
+
+
 ### Day 4: April 28, 2022
 **Today's Progress**: Day 4 of SoC Bootcamp, more Javascript and some mindset coaching.
 
