@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
 
+### Day 6: April 30, 2022
+**Today's Progress**: Day 6 of SoC Bootcamp, it's the weekend but there ain't no rest for the slow
+
+**Thoughts on the day at bootcamp:**
+- No bootcamp on a weekend, but the spirit was there; worked on finishing the tasks from the week that I hadn't completed, between 15:30 and 21:15.  So when I say there's no rest, I mean it
+- I was struggling BIGTIME refactoring some code into a function, but thankfully a call for help was answered on Slack by the awesome Matt D, who took some time out of his Saturday night to go through the mess I'd created and help me shape it into a FUNCTIONing password checker
+- Prior to getting stuck bigtime, I'd actually been feeling pretty pleased with myself...just goes to show, never be happy folks, it's an illusion
+
+**Thoughts on the 'coding':**
+- There are some things I'm picking up but definitely others I'm struggling with.  But you know what?  I look at what I've accomplished in the last few days and sure, I could beat myself up about it taking me forever in comparison to others, but f*** that - I'm pleased with what I've been able to do.  Do I wish I could do more?  Sure - but that's pretty standard of life so whatever
+- Tomorrow I'm going to look at freeCodeCamp and really focus on functions, loops, and if statements
+- Depending on how long that takes me, the plan would then be a bit of Codewars (which scares me, because last time I looked at that I hadn't got a clue what was going on)
+
+
 ### Day 5: April 29, 2022
 **Today's Progress**: Day 5 of SoC Bootcamp, first Hackathon!
 
