@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 7: May 1, 2022
+**Today's Progress**: Day 7 of SoC Bootcamp, but it's a Sunday so...chillin
+
+**Thoughts on the day at bootcamp:**
+- Gonna start nil-ing these bits on the weekend, apart from stuff like today where I helped another bootcamper on Zoom for a while with something they were stuck with (getting a password to limit at 10 characters)
+- Felt good to feel helpful
+
+**Thoughts on the 'coding':**
+- I didn't do the freeCodeCamp I'd been planning on doing, but instead I started looking at and working on the Codewars katas we've been set.  I managed to do 3 of them but 1 of the initial 4 we were set was baffling.  I've got a video I'm going to watch on it tomorrow and hopefully I'll be able to follow that through
+- I did see a feature on Codewars to 'practice' and apparently you can focus on a specific bit to do the katas on, so that might be good - I will investigate more tomorrow
+
+
 ### Day 6: April 30, 2022
 **Today's Progress**: Day 6 of SoC Bootcamp, it's the weekend but there ain't no rest for the slow
 
