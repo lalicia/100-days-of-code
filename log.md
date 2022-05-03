@@ -1,6 +1,31 @@
 # 100 Days Of Code - Log
 
 
+### Day 9: May 3, 2022
+**Today's Progress**: Day 9 of SoC Bootcamp, the DOM and events in Javascript
+
+**Thoughts on the day at bootcamp:**
+- The day started really well with a guest panel of past bootcampers who all now work at Wise.  They were a lovely group of people and listening to them was so relatable, especially Joy, whose comments I adored and who made me feel so much better.  Lots of reassurance about sticking with it and about imposter syndrome being normal
+- THEN the morning session introducing the DOM...  Well.  Yeah.  That was interesting.  I definitely need to finish reading the article on it, and maybe find a youtube video in the morning, because I still don't really get it
+- THEN the afternoon session compounded my lack of understanding about things we'd covered by going over events in Javascript.  Some of the things spoken about actually made sense, but dealing with them in code was a whole other thing
+- It was a really long day, and after that I had a meeting with my lovely mentor, Aidan - and felt bad because I had a headache and was trying to be engaged and not a numbskull.  Hopefull it worked.  We chatted a good hour, in which he reassured my about some industry questions I'd had, and he'd prepared a little demo to explain CSS positioning to me, which I thought was really sweet and thoughtful.  Having a mentor so willing to help and so aproachable is really great
+- After the meeting it was back to Zoom to try and finish off the day's tasks...  I'm not gonna lie, I'm exhausted, finally getting off Zoom at about 8:30pm
+
+**Thoughts on the 'coding':**
+- I did some freeCodeCamp this morning on Javascript to try and just sink some basics in a bit more, I think some things are getting clearer
+- The new stuff we did today with the DOM and events...I'm witholding judgement, because I felt lost but I also by the end of the forever-Zoom, felt like some bits were starting to go in...
+
+
+### Day 8: May 2, 2022
+**Today's Progress**: Day 8 of SoC Bootcamp, Bank Holiday Monday woo!
+
+**Thoughts on the day at bootcamp:**
+- No bootcamp today, but looked again at the tasks we were set, with some Codewars and freeCodeCamp
+
+**Thoughts on the 'coding':**
+- As above really...spent about 4/5 hours looking at things, but honestly they didn't feel like very productive/successful hours.  I think I need to move on from things that completely baffle me before sinking so much time into being lost
+
+
 ### Day 7: May 1, 2022
 **Today's Progress**: Day 7 of SoC Bootcamp, but it's a Sunday so...chillin
 
