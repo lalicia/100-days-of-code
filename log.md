@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
 
+### Day 10: May 4, 2022
+**Today's Progress**: Day 10 of SoC Bootcamp, more events in JS and an intro to APIs
+
+**Thoughts on the day at bootcamp:**
+- The pace today took a little step back, with the morning being largely a recap of what we covered yesterday, which I really appreciated
+- We then started to look at asynchronicity with setTimeout and setInterval
+- The afternoon session introduced more concepts that looked at asynchronous coding with JS, looking at using fetch with APIs (and introducing APIs)
+- My partner and I actually finished the workshop tasks in the workshop time (first time that's happened for me!)
+
+**Thoughts on the 'coding':**
+- I actually don't feel like I picked up much code today sadly, a lot of that was a bit over my head, I do however, feel like I understood the concepts, and I think maybe that's a win in itself
+- I'll definitely need to look more at how things are achieved with the coding when using async functions and etc...  Functions...  *sigh*
+
+
 ### Day 9: May 3, 2022
 **Today's Progress**: Day 9 of SoC Bootcamp, the DOM and events in Javascript
 
