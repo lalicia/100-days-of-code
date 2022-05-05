@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 11: May 5, 2022
+**Today's Progress**: Day 10 of SoC Bootcamp, mindset session on cognitive behaviours (personality types) and Javascript fetch
+
+**Thoughts on the day at bootcamp:**
+- Today we started the day with a mindset session and I really enjoyed it.  I think these are so beneficial and I think the delivery is great - we looked at how to work with people of different personality types; the kinds of clashes that might occur and how we can try to co-elevate
+- We then had a short session about navigating data, looking at navigating the DOM and touching on fetch.  We then had a worshop to practice moving around objects and arrays, using dot notation and bracket notation, and then performing functions with data we navigated to (EG finding qualities about people and presenting them in sentences, or displaying a given person's email)
+- The afternoon was a different vibe, and we were given a task/challenge with minimal instruction where we needed to interpret it.  It was essentially a coding escape room, where we needed to employ fetch to bring in data, and then look through that data to find a code to post back to the API.  Honestly this wasn't very fun because my partner and I took the wrong tactic and spent a lot of time doing stuff we didn't need to - then by the time we got pointed in the right direction we struggled to get into the fun of it.  But lessons were learned, and I would definitely know in the future to really sit back and question whether things were being over-complicated
+
+**Thoughts on the 'coding':**
+- The pair-coding went a little better today, but I'm still struggling to know WHAT I need to code to achieve things, which makes planning difficult
+- The fetch process is interesting, and introduced JSON, which I feel like I will definitely need to learn more about as it seems to have different syntax and requirements to the JS ones I'm slowly getting used to
+
+
 ### Day 10: May 4, 2022
 **Today's Progress**: Day 10 of SoC Bootcamp, more events in JS and an intro to APIs
 
