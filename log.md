@@ -1,8 +1,24 @@
 # 100 Days Of Code - Log
 
 
+### Day 12: May 6, 2022
+**Today's Progress**: Day 12 of SoC Bootcamp, Hackathon!
+
+**Thoughts on the day at bootcamp:**
+- So today's Hackathon was utilising API fetch results, and we got to choose what API and what we made with the data that was returned.  My partner and I chose a Pokemon API and decided to make a Pokemon Battle game, like a card style game
+- The plan was intially quite ambitious, and due to problems accessing the results of our fetch requests, we actually ended up scaling a lot of it back.  HOWEVER, my partner ducked in on a coach explaining something about this problem to another group and from there we were able to expand the functionality back out in our game by turning our data into arrays we could access outside of the function
+- We used lot of features like async functions, for loops, if statements, fetch requests, query selector, creating new arrays, setTimeout...  All things I'd either never head of of barely understood at the beginning of this week
+- The CSS was mostly my partner's handywork, but I did have some helpful input with a problem we had with the images shifting
+- In the end, we had a functioning game and I was pretty proud of us, tbh...  We had to do a 2 minute presentation, in which I gave a general overview to how we started the project and our main issue with the data before we could build in the functionality.  I feel I was probably short of a minute, and it would have been nice to have control of the screen (but we shared Matt's as the layout was better to present), but I did ok.  Room for improvement
+
+**Thoughts on the 'coding':**
+- We hit a NUMBER of problems, but you know what, we worked through them all and I was really proud of my project/time management skills.  Not really coding, but important to the building/project process
+- The coding we did was really advanced, and I definitely learned things today with math.random, and with async functions
+- I really want to spend some time with CSS as I have really limited experience and practice with that
+
+
 ### Day 11: May 5, 2022
-**Today's Progress**: Day 10 of SoC Bootcamp, mindset session on cognitive behaviours (personality types) and Javascript fetch
+**Today's Progress**: Day 11 of SoC Bootcamp, mindset session on cognitive behaviours (personality types) and Javascript fetch
 
 **Thoughts on the day at bootcamp:**
 - Today we started the day with a mindset session and I really enjoyed it.  I think these are so beneficial and I think the delivery is great - we looked at how to work with people of different personality types; the kinds of clashes that might occur and how we can try to co-elevate
