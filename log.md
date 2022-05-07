@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 13: May 7, 2022
+**Today's Progress**: Day 13 of SoC Bootcamp, weekend yo
+
+**Thoughts on the day at bootcamp:**
+- No bootcamp, but worked on weekend recap tasks
+
+**Thoughts on the 'coding':**
+- I'm so proud of myself lol  I worked on the recap takes last night and then again tonight, and though what was supposedly 2 hours of work has taken me approx 6, I don't care.  I mean...well I do, coz I'm tired and it would be nice not to be slow lol  But I'm so proud of what I've managed to do
+- Basically been using the things we've learned this week and then expanding out, so async functions, creating arrays and pushing to them, creating objects in array, checking handed in values meet criteria, creating elements, event listeners...
+- But yeah, I haven't had any help except one confirmation I was on the right track from Hannah (bootcamper), and a whole heap of googling, and I've managed to complete everything apart from the Bonus Bonus Bonus, which is CSS
+- This is intentional, as I've already identified this as something I want to work on, so that's my goal for tomorrow and Monday morning (we have a late bootcamp start) 
+
+
 ### Day 12: May 6, 2022
 **Today's Progress**: Day 12 of SoC Bootcamp, Hackathon!
 
