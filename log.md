@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 14: May 8, 2022
+**Today's Progress**: Day 14 of SoC Bootcamp, weekend yo
+
+**Thoughts on the day at bootcamp:**
+- No bootcamp, but worked on weekend recap tasks bonus bonus bonus, ft. CSS
+
+**Thoughts on the 'coding':**
+- Another proud of myself moment.  CSS was becomming a bit of a bogeyman for me, but you know what?  I ate that frog.  I worked through the Flexboc Froggy game, and then I sat and worked with CSS on a couple of the weekend recap tasks
+- I know have a prettily obnoxious cat pic generator which I love and keep going back to click, as well as a priority list maker with what I think is pretty nice styling actually...  I mean, it's got an obnoxious flare because that's how I roll, but it's elevated-obnoxious, yo
+
+**Link to CSS challenge:** https://flexboxfroggy.com/
+
+
 ### Day 13: May 7, 2022
 **Today's Progress**: Day 13 of SoC Bootcamp, weekend yo
 
