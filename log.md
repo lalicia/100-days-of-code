@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
 
+### Day 15: May 9, 2022
+**Today's Progress**: Day 15 of SoC Bootcamp, an intro to UI/UX and Agile
+
+**Thoughts on the day at bootcamp:**
+- So today started great with a guest talk by Paavan from And Digital, 'Do U(X) Believe in Magic?' - such an engaging and informative presentation.  Also he did some magic tricks and blew everyone's minds!  But yeah, UI/UX are completely new topics to me, and his presentation made them really understandable and accessable concepts
+- We then had a session in the afternoon about Agile working vs. Waterfall, and the fact that there are tradeoffs between them but that Agile really is better suited to software development
+- I met my new partner for the week, Cloe, and we did some spot the difference, looking at design features and starting to train our UI/UX eye
+- We also, for some reason, were tortured by having to recreate the google home page without any tools, google, previews - basically just in a markdown style file, writing CSS in a style element and updating the html.  Honestly, it was a bit like, what?  But you know what, I was actually impressed with how much I kind of had a handle on.  Don't get me wrong, my attempt was pathetic, but it only took me five minutes after we were allowed to preview what we'd done for me to be able to fix it up a bit and get something that looked like google!
+
+**Thoughts on the 'coding':**
+- Really benefited from yesterday's CSS session in the google task today, and I was really pleased with the timing and confirmation of that
+- Otherwise didn't do too much actual coding, but was good to expand the tech horizons with new concepts and areas of study
+
+
 ### Day 14: May 8, 2022
 **Today's Progress**: Day 14 of SoC Bootcamp, weekend yo
 
