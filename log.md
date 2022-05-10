@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 16: May 10, 2022
+**Today's Progress**: Day 16 of SoC Bootcamp, guest speakers from Nester on UI/UX, session on UX Design Thinking, and CSS variables
+
+**Thoughts on the day at bootcamp:**
+- Today we started the day with some Codewars, which admitedly isn't my favourite thing.  I did level up from kyu8 to kyu7 though so...yay me?
+- Then we were treated to a guest talk from the CFO (I believe) of Nester - a peer to peer lending platform - and their UI/UX guy, Alex.  It was a really interesting talk, and found the information around portfolios and employer desires really interesting, alongside everything else
+- We then had a morning session arround UX Design Thinking, looking at the 5 stages, and then encompassing Disney Ideation.  In our pairs, we picked an idea ofr a bootcamp and focussed on the application process, looking through in the various stages from empathy, define, create, prototype, and finally to test - but also taking into consideration the Disney principles.  It was interesting but certainly a new way of thinking, and perhaps not something that was quite natural in some repects
+- This afternoon carried on with that, and then we looked at CSS variables and did a nice little workshop to work with those, including making a dark mode feature for a website.  REALLY enjoyed that - it felt like something I understood quite quickly, in contrast with how other things have taken longer
+
+**Thoughts on the 'coding':**
+- Again, really glad I worked on CSS because today built on it nicely.  From being really a bit scared/overwhelmed by the idea of CSS, I've grown to really like it just these past few days - goes to show that eating the frog is sometimes what it takes
+
+
 ### Day 15: May 9, 2022
 **Today's Progress**: Day 15 of SoC Bootcamp, an intro to UI/UX and Agile
 
