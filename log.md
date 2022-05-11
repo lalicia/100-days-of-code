@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 17: May 11, 2022
+**Today's Progress**: Day 17 of SoC Bootcamp, guest speaker on UI, session on UI Design, and CSS organisation
+
+**Thoughts on the day at bootcamp:**
+- This morning's talk was from Luke at Intermediate, and it was nice to get another inside look at someone in the profession - this time someone working in a bigger organisation and with a different team and working structure than previous.  It's really great getting insights from these people and seeing a snapshot of the variety that's out there, as well as motivating that they really don't see lack of experience as a barrier
+- We started looking at UI Design, creating low fidelity wireframes in Miro and then moving onto high fidelity wireframes in Figma.  To be honest I'm finding the week quite difficult as my partner doesn't really collaborate with me much - she either does things on her own when we're meant to work together, or redoes things we do together which invalidates my time and effort and just makes me feel like there's no value to what I'm doing.  I know internally there is, but the feeling isn't good.  If this were a professional environment I would raise it but we only work together for a week, so I'm just making the best of it and trying not to be too demotivated.  It does really send home the fact that it's important how you get on in teams and how you conduct yourself
+- Difficulties aside, I quite enjoyed the wireframing; Miro was easier to get going with than Figma, but I think that just echoes the depth of the applications.  I'm finding UX UI interesting, but I do confess to missing coding (and also worrying I won't remember how to code when we go back that way)
+- For the final part of the afternoon we looked at CSS organisation, and I quite enjoyed that.  I'd watched videos that sort of went over it, so I felt like I had a bit of an understanding already, and that was nice for once!
+
+**Thoughts on the 'coding':**
+- No coding today really, aside from a mini-Codewars session before our guest talk.  But yes, learning about new things in the tech sphere is still good 
+
+
 ### Day 16: May 10, 2022
 **Today's Progress**: Day 16 of SoC Bootcamp, guest speakers from Nester on UI/UX, session on UX Design Thinking, and CSS variables
 
