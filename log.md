@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+### Day 18: May 12, 2022
+**Today's Progress**: Day 18 of SoC Bootcamp, mindset session on Perspectives and Ideas, former bootcamp guest speaker on UI, session on Advanced CSS, and afternoon UI UX group workshop with presentation
+
+**Thoughts on the day at bootcamp:**
+- Joseph's Mindset sessions are probably my favourite part of the week.  EVery week he manages to somehow speak to me on a personal level and address something I'm having an issue with.  Today we talked about perspectives and ideas, and working with other people and groups, and how to better improve our interactions and communications by thinking generatively instead of positionally.  Great stuff, talking about how to let go of ownership of ideas so that they can flourish
+- We then had a brief session on advanced CSS, which honestly, mostly went over my head...  It did however inspire me to start a course in CSS responsiveness - more below...
+- Another guest talk, this time from a former bootcamper who now works in UI UX at Santander.  Her presentation was great, really backing up a lot of what we've covered this week and solidifying some of the concepts.  The former bootcamper talks are always doubly-inspiring because they've come from where we are now, and that's a really cool thing to see
+- This afternoon was a group workshop and presentation, focussing on User Interviews (random selection from UXChallenges.com).  Honest, it was difficult; our group didn't really gel very welll and some people seemed disengaged.  But I tried my best, and I think what we managed was ok if not amazing.  I did learn some things about conducting and preparing user interviews from the research I did, and as I held an interview, I got firsthand experience of how it's actualy not an easy thing and would definitely be a skill to develop
+
+**Thoughts on the 'coding':**
+- No coding today, but as mentioned above, I did sign up for a 21 day CSS responsiveness course, and after bootcamp was finished I did the first day's worth of learning and challenge.  I'll crack this stuff, yet...
+
+**Links to CSS challenges:** https://courses.kevinpowell.co/conquering-responsive-layouts
+
+
 ### Day 17: May 11, 2022
 **Today's Progress**: Day 17 of SoC Bootcamp, guest speaker on UI, session on UI Design, and CSS organisation
 
