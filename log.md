@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 19: May 13, 2022
+**Today's Progress**: Day 19 of SoC Bootcamp, former bootcamp guest speaker, hackathon Friday!
+
+**Thoughts on the day at bootcamp:**
+- Today's guest speaker was a former bootcamper who had so much energy compared to my tired, end-of-the-week-self it was embarassing lol  But it was great to hear from someone so upbeat and so positive about the job opportunities after bootcamp.  For someone like me - who knows exactly what they don't want to go back to - hearing that bootcamp puts you in such a strong position for getting a job is really a tonic
+- Then today's hackathon!  Today we were designing a landing page for a business, following through from intial brainstorming of the business idea, to the user stories and journey, making initial low fidelity wireframes and then upgrading to high hidelity wireframes, then transfering to actual code.  This was a BIG project but honestly it was great.  The only bad moment was when our group and a little bit of a moment when deciding on colours...honestly, we were all very invested in our corners lol
+- I got to work more on user stories and user personas, focussing on the UX side of things, before moving more to UI and working on the wireframes.  I made some leaps and bounds today with Figma and I was really pleased with what I was able to pick up and create.  Just goes to show, don't like something new intimidate you because it's complex - once you start working with it and breaking it down (and watching super helpful youtube tutorials) it starts to make sense.  And then the magic begins...
+
+**Thoughts on the 'coding':**
+- 2nd day of the responsive CSS course, and I learned about em and rem.  Useful stuff, and I'll be putting it to use over the weekend with the weekend tasks
+
+
 ### Day 18: May 12, 2022
 **Today's Progress**: Day 18 of SoC Bootcamp, mindset session on Perspectives and Ideas, former bootcamp guest speaker on UI, session on Advanced CSS, and afternoon UI UX group workshop with presentation
 
