@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log
 
 
+### Day 22: May 16, 2022
+**Today's Progress**: Day 19 of SoC Bootcamp, former bootcamp guest speaker, hackathon Friday!
+
+**Thoughts on the day at bootcamp:**
+- My new partner this week is great, we seem really on a level with our approach to things, so that's good as the last couple of weeks it's been a bit off in that respect (though working with nice people, just different mindsets)
+- We started looking at node.js today, using functions and calling them to console log things, and using npm to access libraries and change the console log appearance with chalk
+
+**Thoughts on the 'coding':**
+- Going back to javascript after a week of UX UI was like being hit by a truck, not gonna lie.  Took quite a while to figure out some functions we needed to make, but got there in the end with quite a bit of help
+
+
+### Day 20/21: May 14/15, 2022
+**Today's Progress**: Day 20/21 weekend
+
+**Thoughts on the day at bootcamp:**
+- No bootcamp, but many hours spent on the recap tasks, starting to look at building my own site for me as a developer!  Putting all that UX UI goodness ot use and working on miro and figma to compile research and make wireframes
+
+**Thoughts on the 'coding':**
+- No coding really, but did do my responsive CSS course - got a bit stuck so waiting for the solution to be unlocked!  Not a nice feeling not being able to brain things :(
+
+
 ### Day 19: May 13, 2022
 **Today's Progress**: Day 19 of SoC Bootcamp, former bootcamp guest speaker, hackathon Friday!
 
