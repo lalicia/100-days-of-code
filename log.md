@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
 
+### Day 23: May 17, 2022
+**Today's Progress**: Day 23 of SoC Bootcamp, looking at creating a simple API with Express in node.js
+
+**Thoughts on the day at bootcamp:**
+- Good day today - didn't feel like everything went extremely over my head, which is always nice!  We used npm libraries and created a simple API, setting up get requests and listeners to return data
+- Looked at CommonJS and ES6 syntax for import/export (require/module.exports)
+
+**Thoughts on the 'coding':**
+- It went ok today, but there was a lot of copy and paste so...I dunno, I'll take the win I think
+- Worked on responsive CSS and managed to figure out a problem I was having setting the height on a div (needed to set the parent height as I was using %)
+
+
 ### Day 22: May 16, 2022
-**Today's Progress**: Day 19 of SoC Bootcamp, former bootcamp guest speaker, hackathon Friday!
+**Today's Progress**: Day 22 of SoC Bootcamp, introduction to node.js
 
 **Thoughts on the day at bootcamp:**
 - My new partner this week is great, we seem really on a level with our approach to things, so that's good as the last couple of weeks it's been a bit off in that respect (though working with nice people, just different mindsets)
