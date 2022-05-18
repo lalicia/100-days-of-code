@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 24: May 18, 2022
+**Today's Progress**: Day 24 of SoC Bootcamp, still building simple APIs with Express in node, building on concepts and search abilities
+
+**Thoughts on the day at bootcamp:**
+- Taking our code from yesterday, we started to modularise is, splitting out the routes to their own folder and having the app.js file 'use' them
+- We looked at making more specific get requests with queries and how to add search functionality to our route handlers
+- We had an introduction to REST and what makes a RESTful API, with a basic introduction to CRUD request types
+
+**Thoughts on the 'coding':**
+- Again, there was a lot of copy/pasting today, but still do feel quite solid with the concepts, so I'm not fighting it.  We keep getting told syntax can be searched and copied and pasted, so yeah...
+- With responsive CSS I learned that the fix I found with setting the height was unneccesary lol  But there you go.  I still managed to finish the challenge and make a responsive basic site!
+
+
 ### Day 23: May 17, 2022
 **Today's Progress**: Day 23 of SoC Bootcamp, looking at creating a simple API with Express in node.js
 
