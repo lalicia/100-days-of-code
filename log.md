@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 25: May 19, 2022
+**Today's Progress**: Day 25 of SoC Bootcamp, mindset session on the inner critic, POST requests with Express in node, afternoon research task and presentation
+
+**Thoughts on the day at bootcamp:**
+- Thursday is definitely my favourite day of the week at Bootcamp, purely because of Joseph Trodden's mindset sessions.  Every week they just serve gorgeous mental massages and help me get my head right after so much struggle in the week...  Cannot speak highly enough of them
+- We then continued to build out our node API from the last couple of days, adding in a POST request and testing it with Postman to simulate users actually interacting with the API
+- The afternoon was spent doing a research task and delivering a presentation to a small group of our peers (if 30+ people can be considered small?!).  Our group looked at Express error handling, and tbh the code element of that was intimidating to look at.  I'm not sure our presentation was really amazing if I'm honest - we didn't prepare any visuals - but essentially the topic was building another layer onto the Express functions we've already looked at, and (in my not design-y mind) there wasn't really much visual opportunity.  Personally I don't find much value in short (this was 4 minutes) overviews that reference really complicated looking things - it's intimidating and like "oh no, I don't want to look into that right now, it's been a long day already!".  So yeah, we went for a very overview approach and delivered something more introductory.  We also struggled as one of our team members was having technically issues and wasn't able to be with us for half of the task
+
+**Thoughts on the 'coding':**
+- Lots of copying from screenshots, but you know what, if I wasn't doing that I'd be googling because I don't have a photographic memory...so...I'm over thinking that's not good enough.  It's a process and it is working for now - I'm getting to build things out and test them, instead of spending time frustrated and struggling
+- I stayed for half an hour of an extra CSS class and was introduced to media query, which was cool as I've heard about it but knew nothing about how it functioned
+
+
 ### Day 24: May 18, 2022
 **Today's Progress**: Day 24 of SoC Bootcamp, still building simple APIs with Express in node, building on concepts and search abilities
 
