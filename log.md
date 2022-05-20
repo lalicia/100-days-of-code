@@ -1,17 +1,17 @@
 # 100 Days Of Code - Log
 
 
-### Day 25: May 19, 2022
-**Today's Progress**: Day 25 of SoC Bootcamp, mindset session on the inner critic, POST requests with Express in node, afternoon research task and presentation
+### Day 26: May 20, 2022
+**Today's Progress**: Day 26 of SoC Bootcamp, Hackathon Friday!
 
 **Thoughts on the day at bootcamp:**
-- Thursday is definitely my favourite day of the week at Bootcamp, purely because of Joseph Trodden's mindset sessions.  Every week they just serve gorgeous mental massages and help me get my head right after so much struggle in the week...  Cannot speak highly enough of them
-- We then continued to build out our node API from the last couple of days, adding in a POST request and testing it with Postman to simulate users actually interacting with the API
-- The afternoon was spent doing a research task and delivering a presentation to a small group of our peers (if 30+ people can be considered small?!).  Our group looked at Express error handling, and tbh the code element of that was intimidating to look at.  I'm not sure our presentation was really amazing if I'm honest - we didn't prepare any visuals - but essentially the topic was building another layer onto the Express functions we've already looked at, and (in my not design-y mind) there wasn't really much visual opportunity.  Personally I don't find much value in short (this was 4 minutes) overviews that reference really complicated looking things - it's intimidating and like "oh no, I don't want to look into that right now, it's been a long day already!".  So yeah, we went for a very overview approach and delivered something more introductory.  We also struggled as one of our team members was having technically issues and wasn't able to be with us for half of the task
+- Today's hackathon was slightly predictable given then topics we've covered this week; we had to build an API backend with CRUD functionality
+- My partner and I were quite proud of what we managed, particularly RE fixing the import/export syntax that had been setup wrong on the starter files provided for the task.  Myself, I was proud that I figured out the PUT request despite google failing me completely at every turn
+- There were bonus tasks we didn't get to, and after scanning them I don't actually know where I'd start, so I guess that's something for me to work towards
 
 **Thoughts on the 'coding':**
-- Lots of copying from screenshots, but you know what, if I wasn't doing that I'd be googling because I don't have a photographic memory...so...I'm over thinking that's not good enough.  It's a process and it is working for now - I'm getting to build things out and test them, instead of spending time frustrated and struggling
-- I stayed for half an hour of an extra CSS class and was introduced to media query, which was cool as I've heard about it but knew nothing about how it functioned
+- I just watched a video of a Kyle Simpson talk where he said he cut and pasted and hacked at things for years of his career, and he's like a jasvascript guru, so I feel much better about that situation!  lol  There was a lot of copying and tweaking today, but it worked, so... :)
+- I might do some responsive CSS but I am pretty tired and I want to make sure I don't burnout - I've felt a bit like that a few times recently and I know too-well the fallout of not looking after your health when work gets a lot
 
 
 ### Day 24: May 18, 2022
