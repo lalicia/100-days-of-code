@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 27/28: May 21/22, 2022
+**Today's Progress**: Day 27/28 of SoC Bootcamp, weekend
+
+**Thoughts on the day at bootcamp:**
+- n/a
+
+**Thoughts on the 'coding':**
+- This weekend's recap tasks were to basically do the hackathon again on our own; I found a bug with the first DELETE request handler, so that was interesting and learned something fixing that (RE the arguments for splice()).  Still spent a good chunk of time doing it - maybe 5 hours or so on Saturday night
+- Then Sunday I looked at the first bonus task RE splitting out code from the routes/users.js into models/users.js.  I'm not sure I fully get the concept and I hope it gets explained, but I managed to do it regardless and re-checked everything as I was going to make sure my requests still worked
+- After that, I tried another bonus task of adding a generateUser(), but after about 3 hours I've admitted defeat.  I've googled, I've tried one thing, I've tried another...  Yeah - there's only so many times you can beat your head against a wall before it's unhealthy
+- Overall, a rollercoaster.  Felt pretty good when I finished the initial task on Saturday, then felt awesome when I figured out the models this afternoon, but this function I can't figure out has brought me crashing back down
+
+
 ### Day 26: May 20, 2022
 **Today's Progress**: Day 26 of SoC Bootcamp, Hackathon Friday!
 
