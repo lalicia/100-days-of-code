@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 29: May 23, 2022
+**Today's Progress**: Day 29 of SoC Bootcamp, introduction to databases and PostgreSQL, guest talk from Kyle Simpson
+
+**Thoughts on the day at bootcamp:**
+- Really enjoyed the introduction to databases and SQL, and from a very first look, the syntax looks much easier to get to grips with than Javascript, so...nice!  Obvs I fear this optimism will not serve me well lol
+- Most of the afternoon was a guest talk by Kyle Simpson of You Don't Know JS (don't I know it) fame; really good talk, and a great Q&A session with some advice I really took to heart about looking at jobs and interviews, and reframing job specs/adverts to be a wishlist rather than a must-haves list
+
+**Thoughts on the 'coding':**
+- Not much coding today - just a little play on DB-Fiddle sending some SQL requests
+- However, actually there was coding but outside of bootcamp (I'm just forgetting because lonnnnnnnng day).  I spent about half an hour looking at responsive CSS this morning, before some fellow bootcampers helped me out with the mess I got myself in trying to generate an ID.  Then tonight after bootcamp, I helped a fellow bootcamper with her models, and that felt great to be able to help someone :)
+
+
 ### Day 27/28: May 21/22, 2022
 **Today's Progress**: Day 27/28 of SoC Bootcamp, weekend
 
