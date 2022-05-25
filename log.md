@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 30/31: May 24/25, 2022
+**Today's Progress**: Day 30/31 of SoC Bootcamp, more PostgreSQL, guest talk from Ricky Birtles on Cyber Security, databases on Heroku, putting it all together
+
+**Thoughts on the day at bootcamp:**
+- SQL betrayed me.  After enjoying the introduction, I was rudely awakened to how complex SQL actually is when you start building queries
+- Honest not got it in me to write tons, but today we had a short talk about Cyber Security which was cool - it's an interesting field even if right now the terminology mostly goes over my head - and then we moved on to putting everything together
+- We span up a server with Express in node, created a database on Heroku, created and propogated the table using our server backend, and tested a query to see that our routes et al were working
+- If I said it was intense I would be understating in the extreme.  Many people cried today
+
+**Thoughts on the 'coding':**
+- It was a lot.  It was...a lot lol
+
+
 ### Day 29: May 23, 2022
 **Today's Progress**: Day 29 of SoC Bootcamp, introduction to databases and PostgreSQL, guest talk from Kyle Simpson
 
