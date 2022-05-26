@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 32: May 26, 2022
+**Today's Progress**: Day 30/31 of SoC Bootcamp, mindset, guest talk from Will Peaches SoC Director, recap of hosting databases on Heroku and connecting with node.js
+
+**Thoughts on the day at bootcamp:**
+- So today was better.  The entire day was basically a recap of what we did yesterday, but stripping bits out to focus on individually.  I needed this - I think we all did - and now I have a much better conceptual understanding of the moving parts
+- This morning's mindset session looked at GROW and Humble Enquiry methods for personal growth and development.  Not gonna lie, Humble Enquiry sounded slightly like one of the circles of hell to me; would I try it if someone asked me to?  Sure.  Would I invite it upon myself?  Absolutely not lol  If I need help I want help, not an echo chamber.  I have enough racing thoughts, I don't need any adding in
+- Then we had a talk from Will Peaches about designing data for making business decisions, which was really interesting.  I wish it had been longer as I think he could easily have filled more time, but yeah
+
+**Thoughts on the 'coding':**
+- Redoing some of the things from yesterday felt better today, having had the space and taken a step back with a much slower paced recap and more understanding of what I was trying to actually achieve
+- Tonight I worked on refactoring a couple of my model functions and route handlers so that they talked to the database instead of the in-memory data, and I got them to work!  One of them took me approcximately ages lol  but I got there in the end and I feel like it stretched my javascript skills as well as my very new budding SQL abilities.  Such a good feeling getting things to work
+
+
 ### Day 30/31: May 24/25, 2022
 **Today's Progress**: Day 30/31 of SoC Bootcamp, more PostgreSQL, guest talk from Ricky Birtles on Cyber Security, databases on Heroku, putting it all together
 
