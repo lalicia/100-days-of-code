@@ -1,8 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 33: May 27, 2022
+**Today's Progress**: Day 33 of SoC Bootcamp, hackathon!
+
+**Thoughts on the day at bootcamp:**
+- Today's hackathon was pretty predictable - build a RESTful api, creating and hosting a database, populating it with SQL, and building CRUD operations.  This wa sprobably my favourite hackathon...maybe?  I don't know, it's hard to think back over them and compare in those terms.  But yeah, it was tough but I felt like I understood the concepts
+- I managed to help a couple of other teams too, and that felt really good; it's making me feel more confident about things, and exposure to error messages helps you learn how to read them, so I definitely feel like I learned from that today
+
+**Thoughts on the 'coding':**
+- Was really proud of myself for getting the CRUD operations working :)  Considering we had what - a day looking at SQL?  Yeah I think I did pretty well, even if they were 'simply' queries.  They didn't feel simple, and fitting everything together from models to routes felt epic
+
+
 ### Day 32: May 26, 2022
-**Today's Progress**: Day 30/31 of SoC Bootcamp, mindset, guest talk from Will Peaches SoC Director, recap of hosting databases on Heroku and connecting with node.js
+**Today's Progress**: Day 32 of SoC Bootcamp, mindset, guest talk from Will Peaches SoC Director, recap of hosting databases on Heroku and connecting with node.js
 
 **Thoughts on the day at bootcamp:**
 - So today was better.  The entire day was basically a recap of what we did yesterday, but stripping bits out to focus on individually.  I needed this - I think we all did - and now I have a much better conceptual understanding of the moving parts
