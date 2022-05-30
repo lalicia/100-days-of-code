@@ -1,6 +1,29 @@
 # 100 Days Of Code - Log
 
 
+### Day 36: May 30, 2022
+**Today's Progress**: Day 36 of SoC Bootcamp, guest speaker Nadeem Shabir from talis, intro to testing and Jest
+
+**Thoughts on the day at bootcamp:**
+- The talk this morning from Nadeem was really good, and I loved how he addressed not doing too much and not killing yourself to get everything, because it's just not possible and it's not healthy.  The way he talked about softskills being important cheered me
+- Introduction to testing was pretty good; I found it an easy idea to latch onto even if it's got a lot of nuance to full comprehend, but having working in places with QA depts and being familiar with that side of things, the concept of testing made sense
+- Jest was pretty decent to work with after a rocky start installing it in the wrong folder lol  not a move I would recommend!
+
+**Thoughts on the 'coding':**
+- I worked on finishing the rest of the tests from the task after bootcamp and was really happy to get them all done, even a tricky one to test an error throw, where the variable needed wrapping in a function to stop the error throwing erroneously.  Is obviously very new, but I think I liked it :)
+
+
+### Day 34/35: May 28/9, 2022
+**Today's Progress**: Day 34/35 of SoC Bootcamp, weekend
+
+**Thoughts on the day at bootcamp:**
+- n/a
+
+**Thoughts on the 'coding':**
+- The weekend task was a lot like the hackathon, only solo and a bit less hand-holdy.  I was pretty pleased with myself until I got to the end and there were bugs I just couldn't figure out (GET/POST seemed to fire in random order from the button the the front page, meaning sometimes a new cat would be displayed upon button press and other times the page would need refreshing; couldn't figure how to wrap the results on the page; blank entries were able to be added...)
+- I was however pleased with some of my CSS on the front page, and overall, I think I'd picked up concepts quite well in executing what was essentially my first full-stack project.  Still a lot to learn
+
+
 ### Day 33: May 27, 2022
 **Today's Progress**: Day 33 of SoC Bootcamp, hackathon!
 
