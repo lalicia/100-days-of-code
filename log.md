@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 37: May 31, 2022
+**Today's Progress**: Day 37 of SoC Bootcamp, guest speakers from Cypress, more on testing and Jest
+
+**Thoughts on the day at bootcamp:**
+- We looked more at writing tests with Jest, and looking at documentation.  I'm not going to lie, it didn't go particularly well.  I feel like docs are still very hard to read and put into practice at this stage, and honestly I'm struggling with javascript after not really writing these kinds of functions for a while (weeks)
+- The afternoon was pretty much all a presentation by two guys from Cypress about their end-to-end testing platform.  It looked really cool, and I've bookmarked the Cypress learning to look at, because I would quite like to see how I fare following through that
+
+**Thoughts on the 'coding':**
+- Never saying I like anything again
+
+
 ### Day 36: May 30, 2022
 **Today's Progress**: Day 36 of SoC Bootcamp, guest speaker Nadeem Shabir from talis, intro to testing and Jest
 
