@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 39/40/41: Jun 2/3/4, 2022
+**Today's Progress**: Day 39/40/41 of SoC Bootcamp, bank holiday!
+
+**Thoughts on the day at bootcamp:**
+- Worked on some more SuperTest/Jest testing, also looked at the structure of the workshop we had, with it's drop table and seed table scripts - this wasn't something I'd done or dealt with before so that was interesting to see
+- But no bootcamp, just tasks
+
+**Thoughts on the 'coding':**
+- Moving away from testing and looking at React from tomorrow.  I want a good start to next week
+
+
+### Day 38: Jun 1, 2022
+**Today's Progress**: Day 38 of SoC Bootcamp, Cypress and SuperTest
+
+**Thoughts on the day at bootcamp:**
+- Honestly, these three days have been a bit too fast.  Three types of testing software in three days - I have them jumbled in my head and I'm not very confident with any of them
+- I feel confident with the concept of testing, but lack confidence in the use of the tech
+
+**Thoughts on the 'coding':**
+- Jumbled...
+
 
 ### Day 37: May 31, 2022
 **Today's Progress**: Day 37 of SoC Bootcamp, guest speakers from Cypress, more on testing and Jest
