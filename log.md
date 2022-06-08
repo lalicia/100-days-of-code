@@ -1,5 +1,53 @@
 # 100 Days Of Code - Log
 
+
+### Day 45: Jun 8, 2022
+**Today's Progress**: Day 45 of SoC Bootcamp, guest speakers Tom and Dan for Adaptable, more React and intro to useState and Hooks
+
+**Thoughts on the day at bootcamp:**
+- Well, it was a Wednesday, which means our brains collectively melted...  Actually no, I didn't fare too badly today :)  Doesn't mean I got it or found it easy BUT I did follow the bones of it.  Syntax I'm way off, but I will get there
+- We looked at props and hooks, both of which are concepts I'm ok with I think, but using them?  Haha - havin' a laugh aren't you?
+- Our talk this morning was great - it's really nice getting such a wide variety of speakers from different places in industry.  I liked the sound of their culture, and the guys were really nice
+- Quite tired this week...don't know if it's mentally or physically, but yeah I'm getting to mid-afternoon and I'm wiped out.  Aside from a haircut I have no plans this weekend, so I will hopefully have time to do recap tasks and zone out for a bit as well to rest
+
+**Thoughts on the 'coding':**
+- Yeah the coding was a mixed bag - some of it went nicely and then other bits were like hitting a wall  BUT seeing progress in some areas, and finding it easier I think, just to read code now
+
+
+### Day 44: Jun 7, 2022
+**Today's Progress**: Day 44 of SoC Bootcamp, guest speaker Nick Truby from BT, more React and intro to create-react-app
+
+**Thoughts on the day at bootcamp:**
+- Nick was a great guest speaker but he talked to us a bit on interviews and tech tests (following the Q&A) and honestly it really intimidated me and sent me into a bit of a spiral.  I'm not there yet and thinking about it just makes me panic.  I guess this is natural (?) but yeah, it didn't feel great if I'm honest...
+- Create-React-App, finally! lol  Seen it in the videos and been waiting (im)patiently to get there!
+- Good mentor meeting with Aidan, who made me feel better about testing week not going so well - he's not used much testing at all so far in his career, so yeah
+
+**Thoughts on the 'coding':**
+- We really just had a little peek at create-react-app and started looking at file/folder structure, so there's a long way to go.  I watched some of Net Ninja's react series and I followed quite a lot which was nice.  STarted to get trickier at the end though, not gonna lie...
+
+
+### Day 43: Jun 6, 2022
+**Today's Progress**: Day 43 of SoC Bootcamp, guest speaker Piper Bates (former Bootcamper), into to React
+
+**Thoughts on the day at bootcamp:**
+- Piper was a brilliant guest speaker, oh my days.  I think they made everyone feel better, saying how they struggled on the bootcamp but demonstrating how you can come out of it successfully regardless.  It really made me feel better
+- The intro to React was good, taking it quite slow.  We're learning how to write things in ways we won't be going forward though, and that gives me some reservation because it's like "learn this - then throw it out, you need to do it differently" lol  I know it's building a background of knowledge and supposed deeper understanding, but actually to begin with, it's just really confusing (for me at least!)
+
+**Thoughts on the 'coding':**
+- We didn't do too much, but it seemed ok.  Honestly more ideas than coding, which not sad about because hopefully it will stand in good stead.
+
+
+### Day 42: Jun 5, 2022
+**Today's Progress**: Day 42 of SoC Bootcamp, Sunday
+
+**Thoughts on the day at bootcamp:**
+- n/a
+
+**Thoughts on the 'coding':**
+- Read several articles about React to get an idea of what we'll be moving onto; looks interesting and also like it will bridge some of the gaps I'm aware of in my knowledge, so hopefully this is the case
+- Also watched a few little videos that demo'd React and yeah, looking forward to it.  No doubt it will be rock solid lol
+
+
 ### Day 39/40/41: Jun 2/3/4, 2022
 **Today's Progress**: Day 39/40/41 of SoC Bootcamp, bank holiday!
 
