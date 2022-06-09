@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
 
+### Day 46: Jun 9, 2022
+**Today's Progress**: Day 46 of SoC Bootcamp, guest speaker Javid Karim from Nester, mindset with guest coach Trenton, spread and slice, map and more
+
+**Thoughts on the day at bootcamp:**
+- Today was full-on.  Because we had mindset and a guest speaker, the actual sessions and workshops got crunched up and honestly, it was a whirlwind
+- Mindset was different - Joseph wasn't there :(  But we had a great guest coach called Trenton, who was so energetic it was a bit of a shock lol  We looked at communication styles, and I'm a Thinker apparently.  Tbh it fit when he was explaining it, so yep.  We discussed treating others how THEY want to be treated not how WE want to be treated, which makes a lot of sense
+- Javaid is so nice - he gave us a really good chunk of time and honestly I think he would have given more, but Liz K was keeping us to schedule.  He gave a really interesting rundown of the tech landscape and how things have evloved, feeding into that his experience of coming to new technologies and how he came to React.  He went over how he and Nester choose their libraries and what they work with, and that was a really good insight to industry practice and actually just being a good developer
+- We then had the speediest rundown of some more JS methods and how to use them with regards to immutabilility, to be able to reliably change things in React, and though we didn't have much time to practice, I think I kind of took some of it on board
+
+**Thoughts on the 'coding':**
+- We didn't have much time during the day, but tonight I finished off the workshop on my own, writing functions to change arrays and objects immutably.  I was really pleased with myself and my googling skills, and my functions all passed the Jest tests, woo!
+
+
 ### Day 45: Jun 8, 2022
 **Today's Progress**: Day 45 of SoC Bootcamp, guest speakers Tom and Dan for Adaptable, more React and intro to useState and Hooks
 
