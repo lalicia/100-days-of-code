@@ -1,6 +1,45 @@
 # 100 Days Of Code - Log
 
 
+### Day 47-53: Jun 10-16, 2022
+**Today's Progress**: Day 47/48/49/50/51/52/53 of SoC Bootcamp
+
+**Thoughts on the day:**
+- Yes that's right, I did not fill this out for a week and now I hate my life lol  Ok, so gonna switch up the format and get this down as best I can, but will just explain the reason why I haven't been here.  The past couple of weeks have been my wobble and I got to the point where reflection wasn't going to be helpful; I was putting my head down, trying to work on the code and the theory, and everything else was excess.  I don't regret taking that approach even though it means I now have to recap a week here
+- I've also decided I'm going to scrap the *Thoughts on the Coding* section, because I feel like everything can go under the one heading of *Thoughts on the day*  So without further ado...
+- 
+Day 53: mindset session on Group Dynamics, GitHub branching, guest speakers Nedeem and Camille from talis, research task on Agile Standups
+- Phew so today was a busy one!  But a good one - I always enjoy mindset, and was happy to see the return of Joseph.  We went over some concepts that should help us next week in our first larger group project, which in all honesty, I don't like thinking about mostly because of group dynamics lol  The coding will be what it will be - I'll struggle with that no matter what, I'm sure - but who is in the group and how we interact...  Yeah, that's a worry
+- We had a talk from Nadeem and Camille on RESTful APIs - another hint-hint, project week thing - and was 'nice' I guess to be reintroduced to some of those things in preparation
+- Then the afternoon was working in a group of 4 and researching (for our group) Standups in Agile.  We had to make a presentation and record it, uploading it at the end of the day.  Honestly I'm never going to love presentations, but our group worked well together, and I think we came up with something nice and digestable and information, so I was happy
+
+Day 52: guest speakers Mark and Hailey from Experian, Testing Library in React
+- The speakers from Experian were great, and it sounds like a good environment to work in; really supportive of new talent and fostering an atmosphere of growth and development, as well as being positive about remote working.  Yup - there will be fights on the cohort when it comes to applying for roles with them lol
+- We then moved on to looking at testing in React, using Jest (as we looked at previously in week 6) and Testing Library.  I'm ngl testing isn't my favourite thing (even if, contrarily, I really like the reasoning and everything behind it).  I find it difficult and I think it exposes the fact that I'm not super confident about my ACTUAL code - so I think testing and I will be better friends at a later time, when I've got more experience and confidence under my belt
+- Saying that, I did manage to write a passing test on my own later that night, testing for the correct number of list items in an ordered list.  Go me!
+- Oh and also was introduced to aria roles (which aside from other things, are useful in testing when using getByRole - the prefered query method)
+
+Day 51: finite state machine, 
+- Chris took us through the theory of finite state machine and I found that really cool - easier to grasp in theory than to enact when putting into practice (like most things I guess!) but yeah, really interesting way of looking at things and sort of streamlining the development process
+- FSM have a finite number of states and to get between states we have to take an action – of which there are a finite number - which makes them predictable 
+- This led on to looking at useReducer in React, which takes a state and an action and returns a new state (to boil it down!)
+- Reducer functions make things testable and maintainable, and are good for complex state management where you have multiple states changing
+- We looked through documentation (which we've always been pushed towards, but now even more so as we get further into the course) and it wasn't toooooo bad in terms of docs, which definitely vary in quality and usefulness
+
+Day 50: pure functions, useEffect hook
+- I enjoyed the theory about pure functions and why this way of writing code is more manageable for various reasons - it made sense and was nice to hear actually.  Things don't have to be fancy and convoluted, in fact it's better if they're not
+- We were introduced to the useEffect hook in React, which runs AFTER the app rendering and helps keep things in sync.  It's not a function we should be using a lot, but for awareness it was good to look at (and apparently it confuses even snr devs, so yeah...marginal comfort if struggling)
+
+Day 48/49: weekend, yo
+- The weekend recap tasks were also dreadful.  It was another React app task (a blog app this time), and at a point I had to draw a line under it, stop trying to bang my head against a wall, and go to basics
+- I turned to the React Beta Docs and I started reading and working through the examples.  Ngl, I still struggled - and struggle - but I feel like this was the best thing I could do
+- By the end of the weekend I managed some of the recap tasks, and that was better than nothing.  I was proactive and spoke to my mentor, asking for specific help on what I was struggling, both this and CSS
+
+Day 47: Hackathon Friday!
+- This was the worst hackathon yet.  My partner and I really struggled (as did a lot of people in the bootcamp - which makes me feel better) and my partner also got quite upset during the day which was tough to take.  It's very frustrating when you're trying to hard and just don't get something, and it takes a lot to power through
+- In the end, we achieved what we did with the help of other bootcampers (btw the project was a React ToDo List app).  There are some lovely people on the course and though struggling can be really difficult and infuriating, there's always someone or a moment of light that will bring you through
+
+
 ### Day 46: Jun 9, 2022
 **Today's Progress**: Day 46 of SoC Bootcamp, guest speaker Javid Karim from Nester, mindset with guest coach Trenton, spread and slice, map and more
 
