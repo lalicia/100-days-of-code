@@ -1,6 +1,37 @@
 # 100 Days Of Code - Log
 
 
+### Day 57: Jun 20, 2022
+**Today's Progress**: Day 57 of SoC Bootcamp, first day of project week
+
+**Thoughts on the day:**
+- Aside from being anxious and stressed to the eyeballs, I was really...no I can't lie - I was really not look forward to this
+- Had mixed feelings about my group tbh, I think there are a couple of personality clashes potentially, and we have a team member with such bad internet he was missing the vast majority of the day.  So...yeah
+- Still, we got the bulk of our planning done, decided our team manifesto, set up a Trello board for project management, brainstormed and picked our project, did our user research/stories, figured out our MVP, and low/hi fi wireframes
+- I spent an extra hour and a half at the end of the day putting stuff into presentation format to save time later on and deal with it while it was fresh and in front of me
+- And yeah.  Current mood is please kill me now coz I am STRESSED
+
+
+### Day 55/56: Jun 18/19, 2022
+**Today's Progress**: Day 55/56 of SoC Bootcamp, weekend yo
+
+**Thoughts on the day:**
+- So this weekend I recapped the CSS I'd covered with my mentor and set myself a CSS challenge to design (UI I guess as well) a landing page for an application with a background image and implement some lovely styling.  Was really pleased with what I managed to do, and looked up some really cool things to implement as well as practising some things Aidan told me about
+- After that, I made a calculator app from a Youtube project, which honestly wasn't great.  I got it to work, sure, but I don't know that I can say I really learned anything (aside from the fact that people use calculator logic from a library for a reason).  So...busy work maybe, I'm sad to say
+- Then I started bigtime stressing about project week and slightly fell apart, I'm ngl.  Tried to do some reading and revising of notes, but mostly lost all ability to focus and concentrate
+
+
+### Day 54: Jun 17, 2022
+**Today's Progress**: Day 54 of SoC Bootcamp, hackathon Friday!
+
+**Thoughts on the day:**
+- Actually a really good day today, my partner and I worked really well together and managed to make our MVP.  I was a bit...disappointed isn't the right word - but a bit _something_ about the fact we did something very basic, but neither of us were confident going on and taking some pressure off seemed a good way to go
+- We made a full stack React app, a cat pic generator to be precise, which was something I did for week 2 recap but obviously in a completely different way.  This was something we decided because we knew the API was stable and the information accessible, and we also wanted time to be able to style the page if we could get the basic functionality up and running
+- Was really pleased with the CSS we did, which utilised a button from a UI resource.  I then managed to extrapolate the right bits of the CSS code to give the image border the same effect, and overall the site looked really cool :)  we got a nice big round of applause and it felt good
+- So yeah...wish we'd managed more and wish I'd felt capable of more, but don't want to dismiss what we did.  It was simple but it worked, and we made decisions that were rationalised and agreed upon as a team 
+- After bootcamp I had another session with my mentor looking specifically at CSS and working through some techniques to recreate a design I had pointed out, and this was good to pick up some tips and see how beneficial the dev tools can be
+
+
 ### Day 47-53: Jun 10-16, 2022
 **Today's Progress**: Day 47/48/49/50/51/52/53 of SoC Bootcamp
 
