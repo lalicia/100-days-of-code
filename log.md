@@ -1,6 +1,63 @@
 # 100 Days Of Code - Log
 
 
+### Day 62/63: Jun 25/26, 2022
+**Today's Progress**: Day 62/63 of SoC Bootcamp, weekend
+
+**Thoughts on the day:**
+- So after last night, I tried to feel better by focussing on what I did achieve over the week and not what I didn't.  I learned a lot and I think I navigated quite a difficult, low-ability group well
+- I decided to plan out my own project I felt more strongly about that wasn't selected, and work on a mental health app for bootcampers.  I made a FigJam board and started planning, and put quite a lot of time in.  I also created a React app and started building the backend, at which point I realised how shaky my backend skills were after no use since what - week 5 of the bootcamp?  But I'm not getting discouraged.  I just need to practise
+- I researched some things I want to be able to do within my app, and I'm going to spend some time looking at React Framer Motion, and may also look at particles.js - I want to be able to do some animations and pretty things :)
+- Haven't done wireframes yet, but I plan to once I have more of the backend put together.  I was starting to feel anxious about it and the best way of addressing that, I think, is just to work on it
+- Finally started feeling better throat-wise after two days of near-silence lol  God, it's nice not to have to speak!
+
+
+### Day 61: Jun 24, 2022
+**Today's Progress**: Day 61 of SoC Bootcamp, final (thank god!) day of project week - presentation time
+
+**Thoughts on the day:**
+- So today really was just pretty much ALL working on our presentation.  Getting 5 people onto the same page and timings and everything else for a presentation, is like herding crackhead cats.  Do not recommend, would not go back.  Not with this team anyway, and that's not me being horrible, it's just the truth.  Some wildly different ideas on what's appropriate and what's important
+- We hammered out the presentation by about 11, having finalised our slides (which myself and Shiv had been working on throughout the week) and then got down to practising out loud.  I struggled with a couple of points in the presentation where other people were saying things I didn't necessarily think were great or true, but at a point you can't pick up everything anyone says because you're just a bitch, so I had to bite my tongue and just let it go.  Difficult
+- Honestly, writing this out I feel like it must be me...  I don't know.  I just have high standards and yeah.  I'm not going to apologise for caring and for wanting to present something in a way I feel best reflects the project and us as a team, in a positive way
+- Anyways.  Afternoon came and we gave our presentation, and the judge had no questions for us and...I felt deflated.  It felt very much like "oh"
+- After it was over, I saw a few people demoing their groups' apps, and I just felt like shit.  We accomplished nowhere near what other groups did, and honestly, I had a big cry.  It's so frustrating...so many people on the bootcamp are so talented, and quite a few groups got that bunched up.  Our group didn't have that, and as hard as I - and we all - tried, we just didn't have the capability to deliver something like that in a week.  It was quite despiriting
+
+
+### Day 60: Jun 23, 2022
+**Today's Progress**: Day 60 of SoC Bootcamp, fourth day of project week
+
+**Thoughts on the day:**
+- I worked with the same partner today, and also a third team member who finally reappeared after having no wifi the first three days.  Working with him was quite stressful because he was very negative about his experience of the week and down about what had happened, and it was hard to get him to move on and just contribute as much as he could now - he'd pretty much decided he just couldn't.  But we tried and tried, and eventually he snapped a little bit out of it
+- We worked on some unit/integration testing with Jest and React Testing Library, and managed to get a single test working mostly by luck.  Testing is something I have no confidence with and really struggle with
+- The other two people worked on Cypress end-to-end testing, but one disappeared partway through the day for no reason, and the other hit a technical problem that took up a lot of time.  Honestly...it was stressful trying to keep myself from saying something, especially since I'd been ill most of the week and was feeling rough (thanks, tonsillitis)
+- But by the end of the day, we had some Cypress testing, a Jest/Testing Library test, and we could move onto CSS.  We got the page styled a little bit and people were happy - me?  No.  I was not happy because it was still way off lol
+- So I spent my evening fixing as much CSS and prettying it up as much as possible.  I was quite pleased with some elements of it, but it was a very plain design so I can't lie and said I did anything amazing.  But still, it was nice
+
+
+### Day 59: Jun 22, 2022
+**Today's Progress**: Day 59 of SoC Bootcamp, third day of project week (halfway point)
+
+**Thoughts on the day:**
+- My partner today was someone I hadn't worked with before but we got on nicely, and we focussed on getting our List and List item functioning with dummy data from a branch of the backend, as backend was still not configured to get data from the database
+- We got this working and were really pleased, but when it came to lunchtime and we got back together with the rest of the team, we discovered they'd not done anything we'd discussed in the morning standup, and were no closer to getting the backend talking to the database.  We went over what had to be done and pointed out some areas they were working on that...tactical...weren't going to be productive - and then I went for my lunch before my mind exploded
+- In the afternoon, the other pair in the team got the backend up and running with database routes, after seeking some help from Slack, and we could start looking at how to link front and back end.  This was a process we'd never done before, so my partner and I went off and researched, and finally - with the help of multiple articles and bits of youtube tutorials - we managed it.  It took about 10,000 console logs to refine how to set our state, but we figured it out, and by the end of the day we were successfully fetching data on the frontend through get requests on the backend.  Woo!
+- I believe this is the video by Codr Kai that finally got us there: https://www.youtube.com/watch?v=3isCTSUdXaQ&t=2043s
+- So yes, by the end of the day the backend was mostly up and running - some issues with route paths which some people overcomplicated *cough*, but we got there
+- At the end of the bootcamp day we could successfully render a list of links as their descriptions, but we couldn't figure out how to have those come out as document and video lists, nor could we figure out how to get them printing up once.  I can't remember what the issue was, but they would pull through twice with whatever we were doing.  That night I managed to figure it out and get the list broken down into a document list and a video list, by creating another set of components (VidList and VidListItem), and chaining .map() and .filter() based on a null value in the table.  To say I was chuffed would be an understatement.  That pretty much got us to MVP
+
+
+### Day 58: Jun 21, 2022
+**Today's Progress**: Day 58 of SoC Bootcamp, second day of project week
+
+**Thoughts on the day:**
+- Today I worked with someone I'd been partnered with earlier in the course and we started on the frontend with creating the React app.  I had mixed feelings about working on frontend, as I kind of wanted to go back over bacmkend as I haven't looked at it for so long - BUT I see the upside in working with React still to cement it a bit more
+- Our first big challenge came when trying to figure out how to have different pages for our app, as so far we've covered and worked with SPAs.  I managed to find what we needed in React Router (my mentor had also mentioned this) but then my partner and I ended up looking at different versions.  In the end we decided to go with the latest version (as why learn old software, right?) and we got going
+- The docs for React Router 6 - imo - are terrible.  They focus on you downloading and working through a tutorial, which we just didn't have time to do.  If we weren't going to be able to implement pages we needed to know ASAP so we could reassess our plan as a group.  Thankfully I found a tutorial on youtube that held my hand through it, and while my partner was off at his enablement coach meeting and taking a break, I figured it out on my own.  I mention this specifically as I was really proud of myself in that moment
+- The tutorial was PedroTech https://www.youtube.com/watch?v=UjHT_NKR_gU
+- After that it was a bit of a blur, but basically focussed on getting the various pages up and running, and then started in on building components for the List and ListItem
+- The day was hard and long, not gonna lie, but I was really happy with my personal journey with React Router
+
+
 ### Day 57: Jun 20, 2022
 **Today's Progress**: Day 57 of SoC Bootcamp, first day of project week
 
