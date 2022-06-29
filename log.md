@@ -1,6 +1,29 @@
 # 100 Days Of Code - Log
 
 
+### Day 65: Jun 28, 2022
+**Today's Progress**: Day 65 of SoC Bootcamp, documentation
+
+**Thoughts on the day:**
+- So today some more videos, looking at how to go about documenting your code/project.  Documentation is something I've struggled with (in terms of reading docs for techs I've been using) and so I have a vested interest in learning how to make mine approachable and useful
+- Having some time to also refactor our code and add more testing, we split off and I looked at refactoring the frontend code (since I worked with it most).  Cleaned it up and made it look nice, removing any unused imports and unhelpful comments; made sure everything followed naming conventions to make it easier to decipher.  Also removed some inline styling and put it in the css file.  BUT perhaps biggest accomplishment, took the accessibility score on Lighthouse from 83 to 100 by adding aria roles and alt text :)  Sweeeeeet
+- Got a start on writing the documentation, but that's tbc tomorrow
+- After bootcamp I had a mentor meeting, and my mentor was reassuring me not to be down about project week and to not compare myself to others.  He said the bootcamp has always seemed to skew higher ability groups and judges, so at least I don't feel like that's just me thinking that
+- Then after THAT (omg no wonder I'm tired all the time) I started a Youtube project to build a meditation app https://www.youtube.com/watch?v=oMBXdZzYqEk&t=1400s
+- My hope was to be able to put this into my personal project and bodge from JS into React, but I'm not so sure at this stage that I'll be able to.  Definitely need to complete it and then see where I am, because as of right now I can't see how I'd be able to transfer it over :(
+
+
+### Day 64: Jun 27, 2022
+**Today's Progress**: Day 64 of SoC Bootcamp, project retro and code review
+
+**Thoughts on the day:**
+- So, disappointingly (for me) the project isn't dead yet; this week we're working with the same team and looking at other elements of the job, starting today with a retro and then a look at code reviewing
+- Our team retro wasn't great tbh - everyone was sore about the judging situation from Friday, and the meeting wasn't really very productive.  Some of the lads wants to give the app a face lift, which is funny since they did none of the styling and we all picked our MVP style together - and the app is pretty damn close to the style we picked.  I think they just want to throw colours at it because it's plain - which is fair enough if that's your bag - but yeah, they wanna restyle it they can go ahead, because I did that styling on my own time so that we didn't have something awful to showcase lol
+- Learning about code reviews was good, started with watching a video and then we hooked up with another team and swapped projects - they reviewed ours and we theirs.  It was nice to see another team's work and a completely different idea as well
+- Overall I thought all their review comments were fair and they seemed to feel likewise with ours.  Definitely important to communicate well and in a positive way
+- Rounded off the day making a few low-fi wireframes for my mental health app project, and used a new tool called excalidraw as recommended on Twitter - I love it!  Really cool little tool! :)
+
+
 ### Day 62/63: Jun 25/26, 2022
 **Today's Progress**: Day 62/63 of SoC Bootcamp, weekend
 
