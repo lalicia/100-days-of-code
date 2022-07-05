@@ -1,6 +1,59 @@
 # 100 Days Of Code - Log
 
 
+### Day 71: Jul 4, 2022
+**Today's Progress**: Day 71 of SoC Bootcamp, deployment with Netlify
+
+**Thoughts on the day:**
+- So my partner this week actually was starting a new full time job today and somehow expects to also be on the course but not be there at all...interesting lol  I decided to remove myself from that situation immediately and joined another group
+- Today we looked at deployment; what it is and what it does for our lives
+- We then specifically looked at using Netlify, which specialises in static site deployment and isn't really as suitable for projects with a backend as it's main thing is serverless functions
+- We managed to deploy a React app (boilerplate one, nothing fancy) by linking to Github - we then amended the domain name and also made and pushed a change to see that deployment was reactive and handled this change - which it did!
+- Started looking a little bit at Bootstrap and think I'm going to follow Net Ninja's course on Youtube
+- Also worked a bit more on my project and managed to get the quote displaying on the frontend, along with the author, and messed around with the styling.  Some more questions for Aidan, but yeah, was chuffed to make progress!
+
+
+### Day 69/70: Jul 2/3, 2022
+**Today's Progress**: Day 69/70 of SoC Bootcamp, weekend baby!
+
+**Thoughts on the day:**
+- This weekend I worked more on my personal project, finishing off low-fi wireframes and making a high-fi wireframe for my landing page.  As different parts of the site are going to look different I decided to take the approach of high-fi-ing them as I get to them
+- I had a BATTLE to get the background image displaying correctly, and not knowing where I should be in CSS modules...  I've already asked Aidan to look at that with me at our next meeting.  But eventually it was there, and then onto other problems
+- I sort of hacked a side nav bar, but again, not happy with how I got there and want to get a bit of help with it
+- THEN the first fetch request to the quote API for a positive quote to display on the homepage...  I've never liked positivity less, let me tell you lol  Because of a CORS issue I couldn't send the request just through frontend like I have before with API calls, and had to proxy it through the backend.  That was NO small feat, and eventually managed to get something coming back just not the right thing lol
+- This is where I learned a very important lesson: in development, when you make changes, RESTART YOUR FRONT AND BACKEND.  Because sometimes stuff just won't work until you do
+- Eventually got the quote coming through on the backend!  And decided to call it quits before I ran into another disaster lol
+
+
+### Day 68: Jul 1, 2022
+**Today's Progress**: Day 68 of SoC Bootcamp, Auth0
+
+**Thoughts on the day:**
+- Well today was a shitshow, pardon my not-french.  I got to work with Katie, Shiv, and Amanda - as well as Nas, who was off yesterday - so that was great, and being able to support each other after a tough week was good.  Right until one of the team was brought into a whole scenario of having a chat with the person who made her miserable last week
+- Honestly...don't want to go into it much and not my situation to talk about, but one person's actions and inability to work with others hampered our whole day collectively.  THAT'S why soft skills and interpersonal skills are important; dealing with that situation collectively derailed our entire day and we got nowhere near as much done as we otherwise would have, nor had the focus we should have had
+- Still, managaed to get Auth0 working on a React app, displaying user details and (lack of) meta data, as well as logout functionality working
+
+
+### Day 67: Jun 30, 2022
+**Today's Progress**: Day 67 of SoC Bootcamp, the project is dead!
+
+**Thoughts on the day:**
+- Today was our last mindset session with Joseph :(  I'm gonna miss that even though working with some of the smaller mixed groups could be an experience lol  Today our group looked at analysing how we'd working in teams and what we did well/could have done better/etc
+- After that, I honestly am struggling to remember what on earth we did...
+- Guest speaker!  We had a talk from the guy behind Code Creative on Youtube - he went over some ways to improve with React and was a really nice sounding guy, lots of time for questions and really honest with when he couldn't answer something.  A lot of what he said sort of went over my head (a lot of acronyms!) but I took notes and I'll go over again to digest a bit more
+- We then did a research task on authentication and authorisation, and the pros and cons of implementing this yourself or using a 3rd party
+
+
+### Day 66: Jun 29, 2022
+**Today's Progress**: Day 66 of SoC Bootcamp, more documentation
+
+**Thoughts on the day:**
+- So honestly I'm playing catchup as I have once again slacked off on filling this in...may be brief lol
+- Today I pretty much wrote the documentation for our project single-handedly.  Backend said they'd refactored but actually they'd done pretty much nothing and there was still a tangle with two functions where only one was necessary and working.  The person looking at this swore black's white they'd tried every combination and they both needed to be there for it to work, but I went off and tried it myself and what do you know - got it working with one function and model.  I sound like I'm being horrible but actually it was just tiring working on the project and trying to pick up from other people not knowing what they were doing or making solid effort in some cases
+- The person who had the testing done yesterday was off and ofc hadn't pushed this up, so...no testing
+- But yeah, the documentation came out ok and we sat with another group and looked at theirs, and overall wasn't a terrible way to spend a day.  I enjoyed playing with markdown as well :)
+
+
 ### Day 65: Jun 28, 2022
 **Today's Progress**: Day 65 of SoC Bootcamp, documentation
 
