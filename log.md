@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 72: Jul 5, 2022
+**Today's Progress**: Day 72 of SoC Bootcamp, deployment with Netlify and Heroku
+
+**Thoughts on the day:**
+- Today we deployed a fullstack app, with backend in Heroku and frontend in Netlify.  The deployment itself wasn't too traumatic though it was pretty much guesswork sometimes, and we ended up with an extra slash in our domain path because we didn't realise you shouldn't put one at the end - will know better next time
+- But despite that causing errors, we figured it out and hacked around it by adding another slash in the backend path
+- Then we looked at expanding the functionality of the app by adding a PATCH route (which I don't think I've done before) to update the boolean status of whether a shopping list item was completed, and honestly it was just a massive guess.  I feel like I did alright on the backend logic, I sort of fluked the right thing, but frontend?  Nah mate.
+- Worked on my personal project in the evening and realised the landscape orientation of the image request wasn't working correctly.  Also problems with opacity on backgrounds, and just like...yeah.  Think the design might need to change coz it's getting to me a bit
+- BUT did get the image working in at least some capacity
+
+
 ### Day 71: Jul 4, 2022
 **Today's Progress**: Day 71 of SoC Bootcamp, deployment with Netlify
 
