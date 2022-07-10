@@ -1,6 +1,40 @@
 # 100 Days Of Code - Log
 
 
+### Day 76/77: Jul 9/10, 2022
+**Today's Progress**: Day 76 of SoC Bootcamp, weekend!
+
+**Thoughts on the day:**
+- I spent most of Saturday working on a text area and transition for one of the pages on my personal project, and was SO chuffed when I got it working! Honestly...I learned quite a lot, and as frustrating as it was to try things and them not work, and to not be able to find out how to do what I wanted, it was so gratifying getting to the final point
+- I used state and set timeouts, and I learned about transitions with CSS (like that it's not possible with gradients, grrrrr), and I created a really cool effect I was really pleased about :)
+- Sunday I didn't do as much, but put a Figjam together for mine and Brycen's project, as well as a couple of initial wirefram designs in excalidraw. He's busy getting married so they're very much subject to change, but it was good to put some stuff down and sort of clarify the idea a little bit - even if it does flesh out differently when he's back!
+
+
+### Day 75: Jul 8, 2022
+**Today's Progress**: Day 75 of SoC Bootcamp, AWS
+
+**Thoughts on the day:**
+- AWS is difficult - even signing up for it is difficult. This is another one where it felt like "Ok great, but for now too much". I think what I plan to do is circle back to this AFTER the bootcamp; there's a 13 hour course to try and get the entry certificate, so I think I'll aim for that and look at it properly
+- After bootcamp I had a mentor meeting and worked on soem CSS with my mentor for my personal project. Figured out a couple of things, and now know how to use CSS modules correctly, but also broke some of the responsiveness on my app... Not sure how to go about that... He's taking a look to see if he can see what's going on as the behaviour was unexpected - basically everything below what's visible on screen cuts off if you scroll. Cool huh?
+
+
+### Day 74: Jul 7, 2022
+**Today's Progress**: Day 74 of SoC Bootcamp, 10 second intros, Couchbase
+
+**Thoughts on the day:**
+- The morning was spent talking in our little group and trying to figure out our elevator pitches for ourselves. Honestly I find talking about myself really difficult, but I fully appreciate the need to work on this and have been thinking about it on and off since. I came up with a couple of jokey ones, but actually I think the second one is pretty near the mark...
+- The rest of the day was a talk and demo from Couchbase, and honestly it was a write-off. With only one screen it was next to impossible to follow along with the labs, and the pace was really fast. There also seemed to be an assumption of much greater knowledge that at least I possess on the subject of databases and just many many other things that came up. I don't honestly feel like I'm going to spend much time looking into it because it's a paid service anyway, so I wouldn't use it by myself, and I would rather focus on other basics
+
+
+### Day 73: Jul 6, 2022
+**Today's Progress**: Day 73 of SoC Bootcamp, levelling up React with useContext and custom hooks
+
+**Thoughts on the day:**
+- So context...not gonna lie, I didn't love it...and writing this on Sunday because I'm playing catch-up, I can't actually remember what it does for my life. So that probably says all I need to say about that
+- Now custom hooks I like the look of. The minute I saw them I was like "could have used that in the project" - but then actually putting them into practice was more difficult. Still, this is definitely something I can see using in the future
+- And I just remembered more about context. Yeah, I wasn't 100% with it, but just need to spend time with it I reckon - like most things! That's the big problem with this course for me, we spend so little time with something and then move on, and it's not enough time for me to really get to grips with stuff
+
+
 ### Day 72: Jul 5, 2022
 **Today's Progress**: Day 72 of SoC Bootcamp, deployment with Netlify and Heroku
 
