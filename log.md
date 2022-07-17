@@ -1,8 +1,53 @@
 # 100 Days Of Code - Log
 
 
+### Day 83/84: Jul 16/17, 2022
+**Today's Progress**: Day 83/84 of SoC Bootcamp, weekend before final projects!
+
+**Thoughts on the day:**
+- Saturday I spent having a play tbh - I learned how to set gifs as background images and decided to make something funny, with a joke portfolio that was just a React app with pages on React Router, each one with a different gif and just an amusing thread of text.  It was nice to not be too serious and I was still practising skills, so it made me happy :)
+- Sunday I started working on my project with Brycen!  We're making an app for people to be able to set reminders to take a break/have some water/sit up straight, just a little wellness thing really.  I'm looking forward to it but also trepidatious coz it's Brycen and he can run code rings around most people, let alone me lol
+
+
+### Day 82: Jul 15, 2022
+**Today's Progress**: Day 82 of SoC Bootcamp, connecting frontend and backend hackathon
+
+**Thoughts on the day:**
+- I felt really lucky to meet two new people and work in a lovely group today; we built a todo list app, and though we didn't get everything working, we all managed to have access to our own database, and me connected front and backend so that we could display a list of todos through from Heroku.  We had the input element working but ran out of time to hook up the frontend to our backend POST request (which was working with Postman tests)
+- It felt good to go over something I haven't done in weeks and just refresh it and pick up some new things, like a reset script to drop/create/populate the table
+- In the evening I finally got myself to look at my mental health project and fix the CSS modules, and it was such a relief to get it sorted and hopefully be ok going forward.  I had a hairy moment where it seemed like it was going to break the writeout element, but I worked through it and it turned out fine :)
+
+
+### Day 81: Jul 14, 2022
+**Today's Progress**: Day 81 of SoC Bootcamp, 
+
+**Thoughts on the day:**
+- 
+
+
+### Day 80: Jul 13, 2022
+**Today's Progress**: Day 80 of SoC Bootcamp, 
+
+**Thoughts on the day:**
+- 
+
+
+### Day 79: Jul 12, 2022
+**Today's Progress**: Day 79 of SoC Bootcamp, 
+
+**Thoughts on the day:**
+- 
+
+
+### Day 78: Jul 11, 2022
+**Today's Progress**: Day 78 of SoC Bootcamp, 
+
+**Thoughts on the day:**
+- 
+
+
 ### Day 76/77: Jul 9/10, 2022
-**Today's Progress**: Day 76 of SoC Bootcamp, weekend!
+**Today's Progress**: Day 76/77 of SoC Bootcamp, weekend!
 
 **Thoughts on the day:**
 - I spent most of Saturday working on a text area and transition for one of the pages on my personal project, and was SO chuffed when I got it working! Honestly...I learned quite a lot, and as frustrating as it was to try things and them not work, and to not be able to find out how to do what I wanted, it was so gratifying getting to the final point
