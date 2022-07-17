@@ -19,31 +19,37 @@
 
 
 ### Day 81: Jul 14, 2022
-**Today's Progress**: Day 81 of SoC Bootcamp, 
+**Today's Progress**: Day 81 of SoC Bootcamp, guest speakers Nadeem and Camille from talis, interview prep, working on DELETE route
 
 **Thoughts on the day:**
-- 
+- Interview prep...nope lol  I mean, obviously it has to happen but atm I think I'm more concerned with skills.  Still, I worked on it with a fellow bootcamper, practising answering a codewars and talking through the process...not a very comfortable thing but hey ho, if that's the game then imma play
+- After that we had a really good talk from Nadeem and Camille, focussing on how they work at talis; the different groups and working practices, elements of design, production...  It was interesting and though BIG not too overwhelming
+- The afternoon was spent working more on recapping basics and the todo list.  I'm not going to lie and say I'm comfortable with stuff but I do feel much better for having the opportunity to go over things
 
 
 ### Day 80: Jul 13, 2022
-**Today's Progress**: Day 80 of SoC Bootcamp, 
+**Today's Progress**: Day 80 of SoC Bootcamp, recapping React and backend
 
 **Thoughts on the day:**
-- 
+- We had the opportunity to go into a separate Zoom for the rest of the week and work on things we felt needed more attention, recapping more basics - grabbed that opportunity with both hands!  Learning new things is great, but it's been weeks and weeks since I looked at some stuff (for the first and only time!) and I felt like my attention would be better served focussing on solidifying some of that
+- I worked on a todo list, building a frontend and a backend and getting them to communicate
 
 
 ### Day 79: Jul 12, 2022
-**Today's Progress**: Day 79 of SoC Bootcamp, 
+**Today's Progress**: Day 79 of SoC Bootcamp, guest speaker Dan Newns of Jump24, portfolio day
 
 **Thoughts on the day:**
-- 
+- It's great hearing from different employers, and Dan was a really nice sounding guy with a great company ethos and real interest on people being happy at work.  That's so great to hear coming from so many places where - pardon my lanaguage - they didn't give af.  Makes me hopeful for the future
+- The rest of the day was then to work on our portfolios.  Now I'll admit, I just don't know where to go with mine and it's got me stumped.  I asked Nadeem (from talis) for his insight as an employer, and he very graciously took some time to go through some of the things he found important and some that he didn't.  Inspired by what we went over I shelved trying to design my portfolio for a while (both he and Dan that morning had said they didn't really look at them) and instead I worked on my Github profile - because that's where my project info will live and that's somewhere people probably will land
 
 
 ### Day 78: Jul 11, 2022
-**Today's Progress**: Day 78 of SoC Bootcamp, 
+**Today's Progress**: Day 78 of SoC Bootcamp, guest speaker Valerio Cippola previous bootcamper, UI libraries
 
 **Thoughts on the day:**
-- 
+- Valerio was on the last bootcamp before ours, I believe - such a nice guy and very good at motivational speaking.  He really left a good impression with us all but also really emphasised having drive and pushing yourself
+- We looked at UI libraries in the afternoon, and our group pulled Ant Design.  Wasn't the one I'd have preferred to look at, but that's life!  Still, it was a good introduction and we managed to get elements rendering on the page, figuring out inline importing and importing as components, as well as some in-line styling
+- In the future I really want to look at Material UI, and I've heard Tachyons is good - so definitely have that on my radar
 
 
 ### Day 76/77: Jul 9/10, 2022
