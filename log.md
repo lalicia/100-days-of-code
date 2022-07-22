@@ -1,6 +1,43 @@
 # 100 Days Of Code - Log
 
 
+### Day 88: Jul 21, 2022
+**Today's Progress**: Day 88 of SoC Bootcamp, project and guest speaker Leigh Rathbone from Gear4Music
+
+**Thoughts on the day:**
+- SO today wasn't the most fun morning...  We did our ideation which obviously lef to critic and realist stages, and this is where I'm most at home and especially as I already had concerns about what people wanted to do.  I brought up the issue of persistent and private data, and the fact we'd need user accounts (not something we've done so would need to be a thing we implemented from no knowledge at this point) and that a lot of the features would rely on this.  Prdictably people pushed back against things (and wasn't just me, but I did feel like the voice of shitting-on-things) but we managed not to fall our and I think everyone was respectful and managed to approach things in a professional way
+- Little bit annoyed when something I said about designing for mobile/desktop got shot down, and then 5 minutes later when the penny dropped, the same person picked up what I'd said like it was their idea...  Grrr...  Doesn't matter how much you think "teamwork teamwork teamwork" that will never be not annoying
+- BUT we hammered out our MVP, and that made me feel a bit better
+- The talk from Leigh Rathbone was so interesting and he seemed like such a nice guy!  I think everyone on the bootcamp flocked immediately to Linkedin to connect with him lol  So cool hearing about someone having worked on so many things that turned out to be so massive and mainstream; every single one of us has something in our life NOW that was affected by the stuff he'd worked on.  Very cool
+
+
+### Day 87: Jul 20, 2022
+**Today's Progress**: Day 87 of SoC Bootcamp, first day of projects!
+
+**Thoughts on the day:**
+- My group this time is much better balanced in terms of talent, I think :)  Which was a relief because I had envisions essentially not sleeping or resting for 4 weeks if it was a replay of the week project.  I'm not so happy to have been put in a group with one of the girls I'm friendly with, because I see some issues knowing our personalities, and honestly I'd rather be able to support each other from different groups than butt heads in the same one, but luck of the draw
+- We got to know each other a little bit and then brainstormed ideas for what we wanted to do - in the end three people had the same idea so we were never going to end up doing anything else and all my ideas went on the scrapheap lol  No biggie, I'm happy with majority rules.  Though it was amusing that we set our manifesto etc for decision making, and then when it came to choosing a team name we followed it and people started to dissent and overruled it to another option...  Amusing in the sense it put me on edge if I'm honest lol
+- I'm not too keen on the idea and from what I'm hearing at this very moment in time, it's a year long project for a 4 week one, but yeah...
+
+
+### Day 86: Jul 19, 2022
+**Today's Progress**: Day 86 of SoC Bootcamp, still postponed
+
+**Thoughts on the day:**
+- I got some feedback on my early CV draft from Nadeem, which was great - I mean, sadly everything I'd written down was useless, but it was good to find that out at an early stage! lol Also got some really supportive advice on the project and interviews, and really the guy is amazing.  Such a good mentor, and just speaks to the spirit of SoC as well
+- So I shelved that after the feedback because basically I need to structure it in a way that I need projects done and stuff.  Plus, my laptop got so hot today I couldn't work out it for more than a little bit without turning it off in fear
+- I did a little bit of work on colour schemes and wireframes for the project with Brycen, and that was about it - oh, and we decided on the excalidraw font because I looked into it and found out it was opensource :)
+
+
+### Day 85: Jul 18, 2022
+**Today's Progress**: Day 85 of SoC Bootcamp, project postoned for heatwave
+
+**Thoughts on the day:**
+- So that didn't go as planned!  As we're having an unprecidented heatwave, SoC decided to postpone the beginning of projects until Wednesday, and I think that was a great decision because who works best when they're hot, tired, and grumpy?  Not me
+- I decided to spend some time working on my CV and tinkered with a CSS project Helena had setup to make a CV using styled components.  Now, while I like the idea of styled components, actually putting into practise was a fricken nightmare hellscape.  I couldn't seem to do basic things, or make things work the way she had in the demonstration.  Obviously a PICNIC thing but still...
+- Then it was too hot to work at my laptop so I printed off these logs and started summarising down everything for actual CV content
+
+
 ### Day 83/84: Jul 16/17, 2022
 **Today's Progress**: Day 83/84 of SoC Bootcamp, weekend before final projects!
 
