@@ -1,6 +1,32 @@
 # 100 Days Of Code - Log
 
 
+### Day 92: Jul 22, 2022
+**Today's Progress**: Day 89 of SoC Bootcamp, project and guest speaker Gunnar from Capgemini
+
+**Thoughts on the day:**
+- Today we made our final design choices on the high-fi wireframes, and then discussed our tech stack and components. We setup a trello board for tickets and started to log what tickets we could see, then from tomorrow we can start working on these and hopefully have minimal clashes with Github and merging and etc
+- We have a long talk from Gunnar about interview tips and advice, and though a lot of it (to me) was common sense (I've done a lot of interviews, I'm old) it's still good to go over that stuff
+- I don't feel I'm the best fit in my team; it feels like my opinion is always opposite to everyone else's and I get not shot down but yeah...it feels pointless me speaking to be honest so I sort of disengaged a bit today. Might not be the best thing but at a point you have to protect yourself and it was getting really negative
+- I did a little bit of fixing on my mental health project after the end of the day, just changing some styling points and fixing a bug I'd noticed with one of the return links - flex was putting a div over the element and making only a corner of it clickable (thank you dev tools for that, coz if I hadn't used that I would have been clueless)
+
+
+### Day 90/91: Jul 22, 2022
+**Today's Progress**: Day 89 of SoC Bootcamp, weekend!
+
+**Thoughts on the day:**
+- Did LOADS of work on my mental health app this weekend, getting three pages up and running, linked to the cards page I got up and running last night.  I managed to hook up the reddit feeds, transfer a copy of the cat generator, and build a sticky note page which uses the backend and has a database (so also setup the database)
+- Was really pleased with myself but there were a few little style things I wasn't sure of, just like backgrounds and stuff, so will have another look
+
+
+### Day 89: Jul 22, 2022
+**Today's Progress**: Day 89 of SoC Bootcamp, project
+
+**Thoughts on the day:**
+- We worked on wireframes, colours, fonts, names etc today - and I learned that some people legit don't understand what democracy and vote rigging is.  Probably should have taken it more lightly, but the voting process in our group is painfully slow and it really just ran out my patience if I'm honest lol  Anyways, by the end of the day we had a design, a colour palette, a font and a name. Boom
+- After bootcamp I finished off some wireframe designs I was working on to give us a headstart on Monday, and then I went to work on my mental health app project, to create the cards element.  I followed a tutorial but it all went a bit pear shaped when half of the css started clashing lol  Did some work on the classes and managed to fix it, and what do you know - working cards! :)
+
+
 ### Day 88: Jul 21, 2022
 **Today's Progress**: Day 88 of SoC Bootcamp, project and guest speaker Leigh Rathbone from Gear4Music
 
