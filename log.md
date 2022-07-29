@@ -1,8 +1,39 @@
 # 100 Days Of Code - Log
 
 
-### Day 92: Jul 22, 2022
-**Today's Progress**: Day 89 of SoC Bootcamp, project and guest speaker Gunnar from Capgemini
+### Day 95: Jul 28, 2022
+**Today's Progress**: Day 95 of SoC Bootcamp, project
+
+**Thoughts on the day:**
+- Bit of a struggle this morning merging our branch because of a conflict with package.lock.json - in the end I had to delete my file and merge, and then we were able to sort it
+- Mat and I continued working on the Exchange component and FINALLY got the graph working with dynamic data!  Woo!  I was really pleased because I figured out how to drill down into the results coming back from the API to get the arrays we needed to pass to the graph :)
+- We had some conversations in the afternoon about reiterating on our design and made the call to remove the search bar off the homepage as it's incredibly unlikely we'd be able to make it do what we would like (set the state for all pages), having had so much difficulty in setting the individual states because of what APIs expect and etc, so now we're heading with a larger banner image with an ACTUAL image and I'm really glad because I think this will look better anyway
+- Thinking more and more we need to deploy but I think it's a conversation for Monday next week.  Also thinking we need to look at the authorisation aspect again and really try to get that
+- Worked a little bit more on my portfolio but achieved nothing; was playing with displaying transforming images but didn't get anything that looked very nice.  I'm going to work on this over the weekend and look at Framer Motion
+- I had to speak today in the standup meeting and at retro of retros, so yeah, I consider that some personal growth (even if I thought I might die)
+
+
+### Day 94: Jul 27, 2022
+**Today's Progress**: Day 94 of SoC Bootcamp, project
+
+**Thoughts on the day:**
+- Drama this morning, as someone had gone off on their own at night to work on a feature and installed a massive library dependency that we'd said we were going to discuss because we weren't sure we wanted to use it - this then also caused problems with another team member who git pulled and suddenly had a load of errors because of that library clashing with the one already in use.  Was an uncomfortable morning and we lost time fixing it and peeling it out, and the person responsible didn't take it well and at retro blamed lack of clarity in communication...  Funny, because we spoke about NOT doing everything they had done...but you do you, boo.  It's also in our manifesto not to work on things alone because we work as a team.  And we all decided the manifesto together, in one of our many many group chats/sessions
+- So it was another day with our Exchange component, and we got the conversion working and installed Chart.js to start looking at that - had a bit of toing and froing about faker (a dev dependency that gives you fake data to display a chart) but it was fine when we installed it and we were able to see what a graph would actually look like on the page!
+- Some struggles with API data and API keys; we keep getting blocked, so we created some dummy data using a Postman request to copy it as we couldn't copy and paste from the console
+- Overall going well but can see accessing the data for the chart dynamically being difficult
+
+
+### Day 93: Jul 26, 2022
+**Today's Progress**: Day 93 of SoC Bootcamp, project
+
+**Thoughts on the day:**
+- We started coding!  At last! lol  I intentionally picked a trickier component because one, I wanna get the harder stuff done earlier if we can, and two, I figure I'll learn more or experience more
+- We used a spinner to pick groups to split into pairs and I was kind of relieved with who I got - we get on ok and we started working on the exchange component, having little mini celebrations whenever something appeared on screen lol  Never gets old
+- I managed to figure out a tricksy mathsy thing with a UNIX timestamp and converting it over to the format we needed, which was 😎
+
+
+### Day 92: Jul 25, 2022
+**Today's Progress**: Day 92 of SoC Bootcamp, project and guest speaker Gunnar from Capgemini
 
 **Thoughts on the day:**
 - Today we made our final design choices on the high-fi wireframes, and then discussed our tech stack and components. We setup a trello board for tickets and started to log what tickets we could see, then from tomorrow we can start working on these and hopefully have minimal clashes with Github and merging and etc
@@ -11,8 +42,8 @@
 - I did a little bit of fixing on my mental health project after the end of the day, just changing some styling points and fixing a bug I'd noticed with one of the return links - flex was putting a div over the element and making only a corner of it clickable (thank you dev tools for that, coz if I hadn't used that I would have been clueless)
 
 
-### Day 90/91: Jul 22, 2022
-**Today's Progress**: Day 89 of SoC Bootcamp, weekend!
+### Day 90/91: Jul 23/24, 2022
+**Today's Progress**: Day 90/91 of SoC Bootcamp, weekend!
 
 **Thoughts on the day:**
 - Did LOADS of work on my mental health app this weekend, getting three pages up and running, linked to the cards page I got up and running last night.  I managed to hook up the reddit feeds, transfer a copy of the cat generator, and build a sticky note page which uses the backend and has a database (so also setup the database)
