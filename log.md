@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
 
+### Day 97/98: Jul 30/31, 2022
+**Today's Progress**: Day 97/98 of SoC Bootcamp, weekend!
+
+**Thoughts on the day:**
+- This weekend I was super awesome :)  I finished the last couple of pages for my mental health app and then I deployed backend with Heroku and frontend with Netlify - and that makes it sound simple and easy but it was ANYTHING BUT.  It took me literal hours of googling error after error on failed builds; adding procfiles and redirects, making dotenv a production dependency, tweaking this, amending that...  I was so damn proud of myself once I got it up though :)
+- I shared the link with Katie, Brycen, and Rory (who asked via Katie to see it) and they gave me some great feedback.  I fixed a couple of small issues, and I have a list of improvements I want to make (which were half in mind already), but repsonsiveness is the main thing, which I already knew.  Feel like that's gonna take me a while...
+- Then on Sunday I put together a portfolio front page (a jokey one but I absolutely love it) using tsparticles, which wasn't as easy as the youtube tutorials made it out to be!  But I got it working and now hopefully I'll be able to make the serious version with stars :)
+
+
+### Day 96: Jul 29, 2022
+**Today's Progress**: Day 96 of SoC Bootcamp, project
+
+**Thoughts on the day:**
+- Today was a good day; Mat and I finalised the Exchange component pretty much, and we moved on to the Emergency Contacts.  We looked at an API but the results it gave weren't great for accesibility and the format was unreliable, so we're going to go down the route of having a backend database.  I prefer this tbh - just feels more rounded and also we control the data going in
+- We did some team building on Scribblio and it was hilarious - Jed is terrible at it, and we all just had a well-needed laugh
+- Right in the middle of that (ofc) Nadeem came in to have a check on us and see how we were doing, and he seemed pleased with what he found so that was reassuring.  He asked where we were with deployment (which I had been trying to get us to) and the team said they'd decided it was a stretch goal, and he basically shot that down and said "do it" for which I will be eternally grateful lol
+- So far the app is coing along well, though there have been big issued with accessing the data from the weather API for the Forecast page, but yeah other than that I think we're all quite pleased
+- In the evening I worked a bit on my mental health app and started on the last couple of pages
+
+
 ### Day 95: Jul 28, 2022
 **Today's Progress**: Day 95 of SoC Bootcamp, project
 
