@@ -1,6 +1,23 @@
 # 100 Days Of Code - Log
 
 
+### Day 100: Aug 2, 2022
+**Today's Progress**: Day 100 of SoC Bootcamp, project and backend
+
+**Thoughts on the day:**
+- 
+
+
+### Day 99: Aug 1, 2022
+**Today's Progress**: Day 99 of SoC Bootcamp, project and deployment
+
+**Thoughts on the day:**
+- Today was a good day with the team; we merged everything into development and then to main, and then we deployed with Netlify.  We had two errors I was able to fix straight away after my Saturday of deployment hell (so I felt ace about that) and like magic, it was live!  There were a few bugs with android vs apple, but we solved a couple of them, and the other is to look at still
+- We switched up a bit and I worked with Amanda on some styling; it's nice seeing pages come together even if a lot of it is fighting things into place lol
+- Afterward I worked on my Among Us portfolio a bit more and honestly it was a train wreck - I don't know how I managed it but I broke the CSS so badly I thought I was losing my mind.  It was doing stuff I'd never seen before lol  But in the end I stripped it all out and started over, and I finally got somewhere :)
+- Had a terrible headache all night though, and I think I need to learn to step back earlier
+
+
 ### Day 97/98: Jul 30/31, 2022
 **Today's Progress**: Day 97/98 of SoC Bootcamp, weekend!
 
