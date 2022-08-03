@@ -5,7 +5,10 @@
 **Today's Progress**: Day 100 of SoC Bootcamp, project and backend
 
 **Thoughts on the day:**
-- 
+- It's day 100, bitches!!!  Hahahahaaaaaaaaa I'm done!
+- No but seriously lol  I find keeping a diary really hard - it's never been my thing - and I'm glad that I got to the end of this but I'd be lying if I said I'd enjoyed it lol  Still, I think it's great to have this to look back on, and I actually think I'll try and keep it going intil the end of bootcamp in a few weeks, as it's been more than the 100 days challenge for me because it's been chronicling that journey
+- We put together backend today and setup a Heroku database, then realised the frontend pair working on the component that uses it had changed the data structure, so...funtimes
+- In the evening I worked some more with my AMong Us portfolio and battled with transparency on image backgrounds, realising I'm an idiot because I thought the background wasn't changing when actually I was forgetting the button background. Doh
 
 
 ### Day 99: Aug 1, 2022
