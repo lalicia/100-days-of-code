@@ -1,3 +1,19 @@
+# ROUND 2
+# 100 Days Of Code - Log
+
+
+### Day 1: Sept 5, 2022
+**Today's Progress**: Day 1 of freeCodeCamp Javascript and Web Developer Bootcamps, SoC recap session, worked on Panic
+
+**Thoughts on the day:**
+- Starting this again to chronicle what I'm doing in between graduating SoC and hopefully getting a job!
+- Started the day with an hour live stream for the JS Bootcamp and then had a later stream in the afternoon for the Wed Dev Bootcamp - they're covering the freeCodeCamp courses that culminate in getting the certificates, and since I want those certs and keep stalling on my own, I figure this is a good way to go as well as the learning being good for me!  Today's streams were a bit slow because covering the VERY basics I've looked at a bunch of times, but still
+- Then logged in for the SoC recap session with the lovely Hamza.  Gotta say, sometimes I leave those feeling dumber than I went in, but hey...  Always pick up at least a little something and today was no different - plus I think it's good to just keep the code 'dialogue' going because I want to get better at hearing/speaking about it in general
+- To round off the day I worked on my choose your own adventure text game, trying to fix a bug with an exit transition in framer motion (was my fault, wasn't using the exit transition because I was changing state within the page to display a different div) and implement Navigate to programatically change pages
+
+
+
+# ROUND 1
 # 100 Days Of Code - Log
 
 
