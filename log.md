@@ -2,6 +2,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 2: Sept 6, 2022
+**Today's Progress**: Day 2 of freeCodeCamp Javascript and Web Developer Bootcamps, worked on Panic
+
+**Thoughts on the day:**
+- I'm gonna change up the format here to make these a little more succinct; since I'm posting on Twitter I'll mirror the format here going forward
+  
+  100 Days of Code #2:
+- JS/Web Dev bootcamp streams, recap of some freeCodeCamp
+- completed one of the JS fCC challenges
+- added in chained ternaries and timeouts to change return on a page within my project
+
+
 ### Day 1: Sept 5, 2022
 **Today's Progress**: Day 1 of freeCodeCamp Javascript and Web Developer Bootcamps, SoC recap session, worked on Panic
 
